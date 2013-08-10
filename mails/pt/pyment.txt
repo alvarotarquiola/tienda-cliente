@@ -1,0 +1,15 @@
+Hola {firstname} {lastname},
+	
+Sobre tu pedido #{id_order}:
+
+Su pedido ha sido confirmado.
+
+Su pedido #{id_order} a sido conformado. Puede proceder al pago desde nuestra tienda accediendo directamente desde su pedido.
+Los posibles productos que en estos momento están fuera de stock, han sido duplicados en un nuevo pedido, pendiente de entrega. 
+
+Puedes revisar tu pedido y descargar la factura desde tu cuenta de nuestra web en (historial de pedidos).
+
+{shop_name} - {shop_url}
+
+
+{shop_url} desarrollado por PrestaShop¨

@@ -1,0 +1,29 @@
+Olá,
+
+Tem uma nova encomenda de {firstname} {lastname} ({email}) na {shop_name}.
+
+Encomenda: {order_name}
+Colocada a: {date}
+Transportador: {carrier}
+Pagamento: {payment}
+Descontos: {total_discounts}
+Expedição: {total_shipping}
+Produtos: {total_products}
+Embrulho: {total_wrapping}
+Total pago: {total_paid}
+
+Endereço para entrega:
+
+{delivery_block_txt}
+
+Endereço para Fatura:
+
+{invoice_block_txt}
+
+Mensagem do Cliente:
+
+{message}
+
+
+
+{shop_url} powered by PrestaShop™

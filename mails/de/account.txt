@@ -1,0 +1,20 @@
+Hallo {firstname} {lastname},
+
+Ihre Login Daten
+=================
+
+E-Mail Adresse: {email} 
+Passwort: {passwd}	
+
+
+Sicherheitstipps: 
+----------------
+* Bewahren Sie Ihre Anmeldungsdaten sicher auf. 
+* Teilen Sie niemandem Ihre Anmeldedaten mit. Keiner unserer Mitarbeiter wird Sie danach fragen! 
+* Ändern Sie regelmäßig Ihr Passwort. 
+
+Sollte jemand Ihr Kundenkonto missbrauchen, teilen Sie es uns bitte unverzüglich mit. 
+
+Sie können nun auf unserer Webseite bestellen: {shop_name}. 
+
+{shop_name} powered with PrestaShop™ 

@@ -1,0 +1,9 @@
+Gratulation!
+
+Ihr weiterempfohlener Freund {sponsored_firstname} {sponsored_lastname} hat seine erste Bestellung bei {shop_name} gemacht!
+
+Wir freuen uns, Ihnen einen Gutschein in Höhe von {discount_display} anzubieten, den sie können ihn bei Ihrer nächsten Bestellung verwenden können!
+
+Gutschein # {discount_name}
+
+{shop_url} Powered by PrestaShop™

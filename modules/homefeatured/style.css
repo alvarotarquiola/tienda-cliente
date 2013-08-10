@@ -1,0 +1,49 @@
+/*
+	Featured Content Slider
+	by: Chris Coyier	
+	adapted for use with prestashop
+	by: Sacha Menster */
+#page-wrap 									{
+	width: 970px;
+	float:left;
+	text-align:left;
+	margin:5px;
+}
+.slider-wrap{
+	width: 970px; float:left; clear:both;}			
+.stripViewer .panelContainer .panel ul{
+	text-align: left; margin: 0 15px 0 30px;}
+.stripViewer{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	
+}
+.stripViewer .panelContainer				{ position: relative; left: 0; top: 0; }
+.stripViewer .panelContainer .panel			{ float: left; height: 100%; position: relative; width: 980px; }
+.stripNavL, .stripNavR, .stripNav			{ display: none; }
+.nav-thumb 									{ border: 1px solid #333; }
+#movers-row									{margin-bottom:0}
+.thumbcontainer								{
+	width:970px;
+	display:inline-block;
+	background-color:#fff;
+	padding-left:9px;}
+#movers-row div								{ width: auto; display:inline;}
+#movers-row div a.cross-link 				{ float: left; }
+.product_data							{padding: 0 15px 0 15px; float:left; width:940px; text-align:left; font-size:1.8em; }
+.product_name {font-size:1.5em; text-transform:uppercase; color:#FF0000}
+.product_data a {text-decoration:none;}
+.product_data a:hover {color: #3366ff;}
+.product_data span.price {color:#FF0000;}
+.product_data .product_image							{float:left; margin-right:10px;}
+.cross-link	{
+	display: inline-block; margin-top: 0; 
+											  position: relative; padding:15px 9px 15px 9px; z-index: 9999; }
+.active-thumb{
+	background-image: url(images/backgrounds/arrowThumbs.png);
+	background-position: center top;
+	background-repeat: no-repeat;	
+}
+.bg_thumb {padding:0;}
+

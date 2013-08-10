@@ -1,0 +1,108 @@
+<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;" border="0">
+<tbody>
+<tr>
+<td align="left"><a title="{shop_name}" href="{shop_url}"><img style="border:none;" src="{shop_logo}" alt="{shop_name}" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left"><strong>Sie haben eine neue Bestellung von </strong><strong style="color:#DB3484;">{firstname} {lastname}</strong>.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;" align="left">Bestell&uuml;bersicht</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Bestellung: <strong><span style="color:#DB3484;">{order_name}</span> </strong>vom <strong>{date}</strong> <br />Bezahlart: <strong>{payment}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;" border="0">
+<tbody>
+<tr style="background-color:#B9BABE; text-align:center;">
+<th style="width: 15%; padding: 0.6em 0pt;">Artikelnr.</th> <th>Produkt</th> <th style="width: 15%; padding: 0.6em 0pt;">Einzelpreis</th> <th style="width: 15%; padding: 0.6em 0pt;">Menge</th><th style="width: 20%; padding: 0.6em 0pt;">Gesamtpreis</th>
+</tr>
+{items} 					
+<tr style="text-align:right;">
+<td style="background-color:#B9BABE; padding:0.6em 0.4em;" colspan="4">Produkte</td>
+<td style="background-color:#B9BABE; padding:0.6em 0.4em;">{total_products}</td>
+</tr>
+<tr style="text-align:right;">
+<td style="background-color:#EBECEE; padding:0.6em 0.4em;" colspan="4">Rabatte</td>
+<td style="background-color:#EBECEE; padding:0.6em 0.4em;">{total_discounts}</td>
+</tr>
+<tr style="text-align:right;">
+<td style="background-color:#EBECEE; padding:0.6em 0.4em;" colspan="4">Geschenkverpackng</td>
+<td style="background-color:#EBECEE; padding:0.6em 0.4em;">{total_wrapping}</td>
+</tr>
+<tr style="text-align:right;">
+<td style="background-color:#DDE2E6; padding:0.6em 0.4em;" colspan="4">Versand</td>
+<td style="background-color:#DDE2E6; padding:0.6em 0.4em;">{total_shipping}</td>
+</tr>
+<tr style="text-align:right; font-weight:bold;">
+<td style="background-color:#F1AECF; padding:0.6em 0.4em;" colspan="4">Gesamt</td>
+<td style="background-color:#F1AECF; padding:0.6em 0.4em;">{total_paid}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;" align="left">Versand</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Spediteur: <strong>{carrier}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; font-family: Verdana,sans-serif; font-size: 11px; color: #374953;" border="0">
+<tbody>
+<tr style="background-color:#B9BABE; text-transform:uppercase;">
+<th style="text-align:left; padding: 0.3em 1em;">Lieferadresse</th> <th style="text-align:left; padding: 0.3em 1em;">rechnungsadresse</th>
+</tr>
+<tr>
+<td style="padding:0.5em 0 0.5em 0.5em; background-color:#EBECEE;">{delivery_company} 							<br /><span style="color:#DB3484; font-weight:bold;">{delivery_firstname} {delivery_lastname}</span> <br />{delivery_address1} 							<br />{delivery_address2} 							<br />{delivery_city} {delivery_postal_code} 							<br />{delivery_country} {delivery_state} 							<br />{delivery_phone} 							<br />{delivery_other}</td>
+<td style="padding:0.5em 0 0.5em 0.5em; background-color:#EBECEE;">{invoice_company} 							<br /><span style="color:#DB3484; font-weight:bold;">{invoice_firstname} {invoice_lastname}</span> <br />{invoice_address1} 							<br />{invoice_address2} 							<br />{invoice_city} {invoice_postal_code} 							<br />{invoice_country} {invoice_state} 							<br />{invoice_phone} 							<br />{invoice_other}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;" align="left">Kundennachricht</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left"><strong>{message}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size:10px; border-top: 1px solid #D9DADE;" align="center"><a style="color:#DB3484; font-weight:bold; text-decoration:none;" href="{shop_url}">{shop_name}</a> powered with <a style="text-decoration:none; color:#374953;" href="http://www.prestashop.com/">PrestaShop&trade;</a></td>
+</tr>
+</tbody>
+</table>

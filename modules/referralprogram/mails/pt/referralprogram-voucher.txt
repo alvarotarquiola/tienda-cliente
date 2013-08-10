@@ -1,0 +1,9 @@
+Estimado(a) {firstname} {lastname},
+
+Lhe informamos sobre a geração de um cupão a seu nome sobre o seu patrocínio.
+
+Aqui está o código do seu cupão: {voucher_num}, com um montante de{voucher_amount} euros.
+Basta colar esse código em seu próximo carro antes de pagar o pedido.
+
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,6 @@
+Hallo {firstname} {lastname},
+
+ Melden Sie sich an, um Ihren Geschenkgutschein zu erhalten.
+
+
+{shop_url} Powered by PrestaShop™

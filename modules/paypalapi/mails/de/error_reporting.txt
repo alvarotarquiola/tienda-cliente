@@ -1,0 +1,9 @@
+Guten Tag,
+
+Eine Fehlermeldung von Ihrem PayPalAPI Modul
+
+Ein Kunde erhielt eine Fehlermeldung bei der Zahlung, bitte lesen Sie die Logdatei:
+
+{logs}
+
+{shop_url} powered by PrestaShop™

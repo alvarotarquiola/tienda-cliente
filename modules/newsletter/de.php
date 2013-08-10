@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{newsletter}prestashop>newsletter_ffb7e666a70151215b4c55c6268d7d72'] = 'Newsletter';
+$_MODULE['<{newsletter}prestashop>newsletter_804a924e464fd21ed92f820224c4091d'] = 'Erstellte eine CSV Datei für Rundsendungen';
+$_MODULE['<{newsletter}prestashop>newsletter_c3987e4cac14a8456515f0d200da04ee'] = 'Alle Länder';
+$_MODULE['<{newsletter}prestashop>newsletter_fa01fd956e87307bce4c90a0de9b0437'] = 'Kundenland';
+$_MODULE['<{newsletter}prestashop>newsletter_c0859b0a5241dff468da2a9a93c3284f'] = 'Filter nach Kundenland anwenden';
+$_MODULE['<{newsletter}prestashop>newsletter_f2ab5e3c58e5dbe15615f0060d036956'] = 'Newsletter Empfänger';
+$_MODULE['<{newsletter}prestashop>newsletter_99006a61d48499231e1be92241cf772a'] = 'Filtere Newsletter Empfänger';
+$_MODULE['<{newsletter}prestashop>newsletter_7e3a51a56ddd2846e21c33f05e0aea6f'] = 'Alle Kunden';
+$_MODULE['<{newsletter}prestashop>newsletter_39f7a3e2b56e9bfd753ba6325533a127'] = 'Empfänger';
+$_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] = 'Nicht-Empfänger';
+$_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = 'Opted-in Empfänger';
+$_MODULE['<{newsletter}prestashop>newsletter_7b15c043d66fecc45c8752592aa38e38'] = 'Filtere Opted-in Empfänger';
+$_MODULE['<{newsletter}prestashop>newsletter_cbfbc813d2b33a2c264e878e31cf2cc0'] = 'Keine Kunden ensprechen dem Filterkriterium';
+$_MODULE['<{newsletter}prestashop>newsletter_f8db2243069bf76570a084ea11d1c667'] = 'Die CSV Datei wurde erfolgreich erstellt';
+$_MODULE['<{newsletter}prestashop>newsletter_55caa4828d4e935c2ba9f1558f1c4edd'] = 'gefundene Kunden';
+$_MODULE['<{newsletter}prestashop>newsletter_48e3d5f66961b621c78f709afcd7d437'] = 'Datei herunterlanden';
+$_MODULE['<{newsletter}prestashop>newsletter_ba99ad4de3eb578339572fe5b082c7f0'] = 'WICHTIG: wenn die .csv-Datei mit Excel geöffnet wird, bitte auf utf-8-Kodierung umstellen.';
+$_MODULE['<{newsletter}prestashop>newsletter_d04e6ff103ecd59c2e24d89137fd772c'] = 'FEHLER: Nicht schreibbar nach';
+$_MODULE['<{newsletter}prestashop>newsletter_8d550e9bf69bfc7a09be6eeb1622ae23'] = 'Es existieren zwei Varianten des Moduls:';
+$_MODULE['<{newsletter}prestashop>newsletter_23e8f8a55548b88bfbdcd1f6ba26a010'] = 'Personen die sich über den Block \\\"BlockNewsletter\\\" angemeldet haben.';
+$_MODULE['<{newsletter}prestashop>newsletter_9f1f1e7064f60721a843c1006f4c0569'] = 'Das ist eine Liste der der E-Mail-Adressen der Personen, die in Ihren Shop kommen und sich zwar nicht registrieren, aber zum Newsletter anmelden. Wenn Sie \\\"Export Newsletter-Abonnenten\\\" nutzen, erhalten Sie eine CSV-Datei basierend auf den Daten der BlockNewsletter-Abonnenten.';
+$_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = 'Kunden, die \\\"ja\\\" in Ihren Kundenprofil angeklickt haben um den Newsletter zu bekommen.';
+$_MODULE['<{newsletter}prestashop>newsletter_3387c45f70871b981a14bbbdd73a5646'] = 'Die \\\"Export-Kunden\\\" denen Sie einen Newsletter senden möchten.';
+$_MODULE['<{newsletter}prestashop>newsletter_b192ab83a19105bbf1e2d1fab548249a'] = 'Export Newsletter-Abonnenten';
+$_MODULE['<{newsletter}prestashop>newsletter_a60401e616125189d78605b2ddd7ff45'] = 'Erstellt eine CSV Datei basierend auf \\\"Block Newsletter\\\" Empfänger Daten';
+$_MODULE['<{newsletter}prestashop>newsletter_dbb392a2dc9b38722e69f6032faea73e'] = 'Export der CSV Datei';
+$_MODULE['<{newsletter}prestashop>newsletter_4713ef5f2d6fc1e8f088c850e696a04b'] = 'Export der Kunden';
+$_MODULE['<{newsletter}prestashop>newsletter_507db84221164a388b0c9f3991061ae0'] = 'Erstellt eine CSV aus den Kundendaten';

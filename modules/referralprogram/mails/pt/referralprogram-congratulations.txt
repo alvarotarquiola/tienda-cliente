@@ -1,0 +1,8 @@
+Parabéns!
+
+O seu amigo(a) patrocinado(a), {sponsored_firstname} {sponsored_lastname} fez a sua primeira encomenda em {shop_name}!
+
+Temos o prazer de lhe oferecer um Vale de Desconto no valor de {discount_display} (Vale de Desconto n.º {discount_name}) que pode usar na sua próxima encomenda.
+
+
+{shop_url} powered by PrestaShop™

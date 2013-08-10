@@ -1,0 +1,9 @@
+Olá,
+
+Aviso: recebeu um novo aviso de alerta de log na sua área de Administração.
+
+Pode verificar isso no separador "Ferramentas" > "Logs" na sua área de Administração da loja.
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

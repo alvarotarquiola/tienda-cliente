@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blockcms}prestashop>blockcms_cd275312651aebf8cbbb8d3bb1c086ae'] = 'Bloco CMS';
+$_MODULE['<{blockcms}prestashop>blockcms_cdca12007979fc49008fd125cdb775fc'] = 'Adiciona um bloco CMS com vários links.';
+$_MODULE['<{blockcms}prestashop>blockcms_ea4788705e6873b424c65e91c2846b19'] = 'Cancelar';
+$_MODULE['<{blockcms}prestashop>blockcms_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{blockcms}prestashop>blockcms_97390dd0b5ba7867120aee2ff22bfa38'] = 'Configuração do bloco CMS';
+$_MODULE['<{blockcms}prestashop>blockcms_965be994da393e5aa15bd3a2444c6ccf'] = 'Definição de Vários Links em Rodapé';
+$_MODULE['<{blockcms}prestashop>blockcms_32c532e462a1f85b1b103ed9989a1aba'] = 'Apresentar \"Powered by Prestashop\"';
+$_MODULE['<{blockcms}prestashop>blockcms_e83c1afa1d3dbe19fa9becebb5ca8480'] = 'Editar bloco CMS';
+$_MODULE['<{blockcms}prestashop>blockcms_5aa1602194579edb6f91d7dd53eadb32'] = 'Novo bloco CMS';
+$_MODULE['<{blockcms}prestashop>blockcms_bdbaef442c586e1bbecb44eba1ba7e2d'] = 'Se deixar vazio este campo, o bloco ficará com o nome da categoria';
+$_MODULE['<{blockcms}prestashop>blockcms_945d5e233cf7d6240f6b783b36a374ff'] = 'Esquerda';
+$_MODULE['<{blockcms}prestashop>blockcms_92b09c7c48c520c3c55e497875da437c'] = 'Direita';
+$_MODULE['<{blockcms}prestashop>blockcms_93cba07454f06a4a960172bbd6e2a435'] = 'Sim';
+$_MODULE['<{blockcms}prestashop>blockcms_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Não';
+$_MODULE['<{blockcms}prestashop>blockcms_08f3899ad165f85f8596199966b8c673'] = 'Ver \"nossas lojas\" no fim do bloco';
+$_MODULE['<{blockcms}prestashop>blockcms_5dab5acc3c6a2a7e87e8d8926a2c763e'] = 'Erro: está a tentar eliminar um bloco CMS inexistente';
+$_MODULE['<{blockcms}prestashop>blockcms_ddd7d8a072783afaf23e5e6843398fc9'] = 'Bloco CMS adicionado';
+$_MODULE['<{blockcms}prestashop>blockcms_31a22821c66edf7e3aa33ef1c8109f4c'] = 'Bloco CMS editado';
+$_MODULE['<{blockcms}prestashop>blockcms_87a2663d841b78f01c27c0edb4f50b76'] = 'Eliminação bem sucedida';
+$_MODULE['<{blockcms}prestashop>blockcms_be58fccb15fb119b8c3d485e3a8561c4'] = 'Configuração CMS do bloco';
+$_MODULE['<{blockcms}prestashop>blockcms_34c869c542dee932ef8cd96d2f91cae6'] = 'Nossas lojas';
+$_MODULE['<{blockcms}prestashop>blockcms_d1aa22a3126f04664e0fe3f598994014'] = 'Promoções';
+$_MODULE['<{blockcms}prestashop>blockcms_9ff0635f5737513b1a6f559ac2bff745'] = 'Novos produtos';
+$_MODULE['<{blockcms}prestashop>blockcms_3cb29f0ccc5fd220a97df89dafe46290'] = 'Mais vendidos';
+$_MODULE['<{blockcms}prestashop>blockcms_02d4482d332e1aef3437cd61c9bcc624'] = 'Contacte-nos';
+$_MODULE['<{blockcms}prestashop>blockcms_7a52e36bf4a1caa031c75a742fb9927a'] = 'Desenvolvido por';

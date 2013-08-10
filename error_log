@@ -1,0 +1,285 @@
+[27-Oct-2010 11:24:32] PHP Fatal error:  Call to undefined method Link::goLink() in /home/qcpjuuzu/public_html/tienda/tools/smarty/compile/%%22^223^22331730%%product-sort.tpl.php on line 11
+[27-Oct-2010 11:24:40] PHP Fatal error:  Call to undefined method Link::goLink() in /home/qcpjuuzu/public_html/tienda/tools/smarty/compile/%%22^223^22331730%%product-sort.tpl.php on line 11
+[12-Nov-2010 11:11:49] PHP Fatal error:  Call to undefined method Link::goLink() in /home/qcpjuuzu/public_html/tienda/tools/smarty/compile/%%22^223^22331730%%product-sort.tpl.php on line 11
+[12-Nov-2010 11:41:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qcpjuuzu/public_html/tienda/header.php:2) in /home/qcpjuuzu/public_html/tienda/header.php on line 5
+[12-Nov-2010 11:43:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qcpjuuzu/public_html/tienda/header.php:2) in /home/qcpjuuzu/public_html/tienda/header.php on line 5
+[12-Nov-2010 11:56:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qcpjuuzu/public_html/tienda/header.php:2) in /home/qcpjuuzu/public_html/tienda/header.php on line 5
+[14-Nov-2010 17:40:56] PHP Fatal error:  Call to undefined method Link::goLink() in /home/qcpjuuzu/public_html/tienda/tools/smarty/compile/%%4F^4FF^4FF57D33%%category.tpl.php on line 71
+[29-Dec-2010 12:30:39] PHP Fatal error:  Call to undefined method Link::goLink() in /home/qcpjuuzu/public_html/tienda/tools/smarty/compile/%%4F^4FF^4FF57D33%%category.tpl.php on line 71
+[01-Mar-2011 16:22:45] PHP Fatal error:  Call to undefined method Link::goLink() in /home/qcpjuuzu/public_html/tienda/tools/smarty/compile/%%4F^4FF^4FF57D33%%category.tpl.php on line 71
+[29-May-2012 20:49:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:06:16] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:06:53] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:07:00] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:07:00] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 251
+[29-May-2012 21:09:05] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:10] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:18] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:22] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:25] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:28] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:42] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:47] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:09:47] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 264
+[29-May-2012 21:09:52] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:12:25] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:12:28] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:12:28] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 264
+[29-May-2012 21:12:31] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:13:45] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:13:48] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:20:13] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:20:16] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:24:35] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:24:39] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[29-May-2012 21:24:42] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 12:59:57] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:00:01] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:00:01] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 264
+[30-May-2012 13:00:07] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:01:00] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:01:05] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:03:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:04:03] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[30-May-2012 13:04:03] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 251
+[31-May-2012 18:04:08] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/f0739d01954319d5455167af075f02d106afa15a in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[31-May-2012 18:04:08] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/f0739d01954319d5455167af075f02d106afa15a) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[31-May-2012 19:25:06] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/fe5b81c4a7ec6e48b88c7cb8b233472a836ef10b in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[31-May-2012 19:25:06] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/fe5b81c4a7ec6e48b88c7cb8b233472a836ef10b) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[01-Jun-2012 11:29:22] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/c73852c117b6ee7d1b6c34cfbc86771f6587d861 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[01-Jun-2012 11:29:22] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/c73852c117b6ee7d1b6c34cfbc86771f6587d861) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[01-Jun-2012 11:30:30] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/b3de2266cf03051c34637a2bb42a6b28bbcc3b31 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[01-Jun-2012 11:30:30] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/b3de2266cf03051c34637a2bb42a6b28bbcc3b31) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[01-Jun-2012 11:31:06] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/b3de2266cf03051c34637a2bb42a6b28bbcc3b31 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[01-Jun-2012 11:31:06] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/b3de2266cf03051c34637a2bb42a6b28bbcc3b31) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 07:55:14] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 07:55:21] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 07:55:21] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 251
+[04-Jun-2012 08:54:00] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/5578fdf3ff9753b11a09b63ffe7362466aad3c81 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[04-Jun-2012 08:54:00] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/5578fdf3ff9753b11a09b63ffe7362466aad3c81) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 09:28:31] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/5578fdf3ff9753b11a09b63ffe7362466aad3c81 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[04-Jun-2012 09:28:31] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/5578fdf3ff9753b11a09b63ffe7362466aad3c81) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 09:29:05] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/ac92bbbe609b3a8b051619da613bba2ee9b2641c in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[04-Jun-2012 09:29:05] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/ac92bbbe609b3a8b051619da613bba2ee9b2641c) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 09:33:56] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/dc116d1c286034f06a9401ed1ae4d867da654de2 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[04-Jun-2012 09:33:56] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/dc116d1c286034f06a9401ed1ae4d867da654de2) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 09:50:54] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/49e0e16379a027c58df5ec65516d34a3ba49db4e in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[04-Jun-2012 09:50:54] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/49e0e16379a027c58df5ec65516d34a3ba49db4e) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 10:34:04] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/274b0d9054fdc8cb93258cf3cb52b43e98e9106c in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[04-Jun-2012 10:34:04] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/274b0d9054fdc8cb93258cf3cb52b43e98e9106c) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[04-Jun-2012 14:25:33] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 14:25:37] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 14:25:37] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 251
+[04-Jun-2012 14:36:42] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 14:36:51] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 14:36:57] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 14:36:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[04-Jun-2012 14:37:03] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-60/order.php on line 24
+[06-Jun-2012 10:22:07] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/8b901bfd1f3f81863a31e8fbf50d77baf9a17622 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[06-Jun-2012 10:22:07] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/8b901bfd1f3f81863a31e8fbf50d77baf9a17622) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[06-Jun-2012 10:24:54] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/6c3d9eeceb29aa1ff410694f45bece189661a91c in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[06-Jun-2012 10:24:54] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/6c3d9eeceb29aa1ff410694f45bece189661a91c) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[06-Jun-2012 17:23:27] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/b235462a4d0ea51eecc3ce0ed5a14690e1144561 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[06-Jun-2012 17:23:27] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/b235462a4d0ea51eecc3ce0ed5a14690e1144561) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[06-Jun-2012 18:15:49] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/6a0aaa013a4237ed9b151cfddef62b2f05662b03 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[06-Jun-2012 18:15:49] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/6a0aaa013a4237ed9b151cfddef62b2f05662b03) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[07-Jun-2012 11:04:24] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/c2b8a00b21b5af0947c9ed42f1455cdef3e93719 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[07-Jun-2012 11:04:24] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/c2b8a00b21b5af0947c9ed42f1455cdef3e93719) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[07-Jun-2012 11:07:41] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/8610467aacdea923f14611d028a76629fe980ee9 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[07-Jun-2012 11:07:41] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/8610467aacdea923f14611d028a76629fe980ee9) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[07-Jun-2012 11:12:21] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/0a748cc19c5d1e349603999569bf8a6d96485895 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[07-Jun-2012 11:12:21] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/0a748cc19c5d1e349603999569bf8a6d96485895) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[07-Jun-2012 11:12:29] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/0a748cc19c5d1e349603999569bf8a6d96485895 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[07-Jun-2012 11:12:29] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/0a748cc19c5d1e349603999569bf8a6d96485895) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[07-Jun-2012 11:20:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/e78b70d396b9a7c941c82f399cb42590b48fb254 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[07-Jun-2012 11:20:10] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/e78b70d396b9a7c941c82f399cb42590b48fb254) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[07-Jun-2012 11:20:18] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/qcpjuuzu/public_html/Tienda-60/download/0a748cc19c5d1e349603999569bf8a6d96485895 in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 10
+[07-Jun-2012 11:20:18] PHP Warning:  readfile(/home/qcpjuuzu/public_html/Tienda-60/download/0a748cc19c5d1e349603999569bf8a6d96485895) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/attachment.php on line 12
+[16-Jun-2012 00:38:33] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 00:38:37] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 00:46:18] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 00:46:22] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 00:48:34] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 00:48:38] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 01:44:38] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 01:44:53] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[16-Jun-2012 01:44:53] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[16-Jun-2012 01:45:02] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 15:17:29] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 15:17:35] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 15:45:44] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 15:45:47] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 16:22:05] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 16:22:09] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 16:49:49] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 16:49:52] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 16:49:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:03:38] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:03:42] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:03:42] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 17:03:42] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 17:03:42] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 17:03:54] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:03:54] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 17:03:54] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 17:03:54] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 17:04:03] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:10:44] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:10:48] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:10:48] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 17:10:48] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 17:10:48] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 17:10:52] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 17:11:09] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:04:31] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:04:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:05:04] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:05:04] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 18:05:04] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 18:05:04] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 18:05:31] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:05:31] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 18:05:31] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 18:05:31] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 18:06:06] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:18:25] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:18:40] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:18:44] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 18:18:44] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 18:18:44] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 18:18:44] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 18:18:52] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:29:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:30:03] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:30:03] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 19:30:03] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 19:30:03] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 19:30:08] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:33:28] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:33:33] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:33:33] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 19:33:33] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 19:33:33] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 19:33:37] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:36:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:36:34] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:36:34] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 19:36:34] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 19:36:34] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 19:36:37] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:46:20] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:46:23] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:46:23] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 19:46:23] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 19:46:23] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 19:46:26] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:49:40] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:49:43] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:49:43] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 19:49:43] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 19:49:43] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 19:49:46] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:51:26] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:51:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 19:51:30] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 19:51:30] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 19:51:30] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 19:51:33] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:15:58] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:16:03] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:16:03] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 20:16:03] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 20:16:03] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 20:16:05] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:18:13] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:18:16] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:18:16] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 20:18:16] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 20:18:16] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 20:18:19] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:22:24] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:22:29] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:22:29] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 20:22:29] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 20:22:29] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 20:22:34] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:24:42] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:24:46] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:24:46] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 20:24:46] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 20:24:46] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 20:24:51] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:27:01] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:27:04] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:27:04] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 20:27:04] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 20:27:04] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 20:27:07] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:59:16] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:59:24] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[18-Jun-2012 20:59:24] PHP Notice:  Undefined variable: check in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 228
+[18-Jun-2012 20:59:24] PHP Notice:  Undefined variable: paso1 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 251
+[18-Jun-2012 20:59:24] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[18-Jun-2012 20:59:28] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:02:57] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:04:24] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:05:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:05:35] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:05:41] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:05:44] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:05:47] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:05:53] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:06:00] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:06:21] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:06:24] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:06:24] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[19-Jun-2012 09:06:31] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:14:51] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:14:54] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:15:15] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:15:20] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:15:28] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:34:00] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:34:02] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:38:34] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:38:37] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[19-Jun-2012 09:38:49] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:04:11] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:04:39] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:04:42] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:04:42] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[20-Jun-2012 17:08:14] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:10:15] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:10:19] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:10:19] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[20-Jun-2012 17:10:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:10:47] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:10:51] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:10:51] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[20-Jun-2012 17:10:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:25:18] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:25:21] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:25:21] PHP Notice:  Undefined variable: paso2 in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 264
+[20-Jun-2012 17:25:25] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:28:49] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:28:52] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:34:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:34:41] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[20-Jun-2012 17:34:59] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[25-Jun-2012 21:00:41] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[25-Jun-2012 21:00:46] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[25-Jun-2012 21:03:30] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[25-Jun-2012 21:03:35] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[25-Jun-2012 21:03:49] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24
+[26-Jun-2012 12:03:15] PHP Fatal error:  Out of memory (allocated 10223616) (tried to allocate 122880 bytes) in /home/qcpjuuzu/public_html/Tienda-70/tools/smarty/internals/core.assemble_plugin_filepath.php on line 110
+[26-Jun-2012 12:03:38] PHP Fatal error:  Out of memory (allocated 8650752) (tried to allocate 82 bytes) in /home/qcpjuuzu/public_html/Tienda-70/classes/MySQL.php on line 96
+[26-Jun-2012 12:03:45] PHP Fatal error:  Out of memory (allocated 8126464) (tried to allocate 491520 bytes) in /home/qcpjuuzu/public_html/Tienda-70/tools/smarty/compile/%%F6^F69^F69B86DB%%blockcart-json.tpl.php on line 115
+[26-Jun-2012 12:03:52] PHP Fatal error:  Out of memory (allocated 8126464) (tried to allocate 24 bytes) in /home/qcpjuuzu/public_html/Tienda-70/classes/MySQL.php on line 96
+[26-Jun-2012 12:03:54] PHP Fatal error:  Out of memory (allocated 8650752) (tried to allocate 33 bytes) in /home/qcpjuuzu/public_html/Tienda-70/classes/MySQL.php on line 96
+[26-Jun-2012 12:03:56] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/modules/blockviewed/blockviewed.php on line 89
+[26-Jun-2012 12:03:56] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/modules/blockinfos/blockinfos.php on line 105
+[26-Jun-2012 12:03:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/modules/blockviewed/blockviewed.php on line 89
+[26-Jun-2012 12:03:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/modules/blockinfos/blockinfos.php on line 105
+[26-Jun-2012 12:04:02] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/modules/blockviewed/blockviewed.php on line 89
+[26-Jun-2012 12:04:02] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/modules/blockinfos/blockinfos.php on line 105
+[31-Jul-2012 17:48:38] PHP Notice:  Undefined index:  id_orderpay in /home/qcpjuuzu/public_html/Tienda-70/order.php on line 24

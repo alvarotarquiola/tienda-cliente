@@ -1,0 +1,9 @@
+Hallo {firstname} {lastname},
+
+Empfehlungsprogramm
+
+ein Gutschein in Höhe von {voucher_amount} Euro ist durch unser Empfehlungsprogramm für Sie hitnerlegt worden
+
+Ihr Gutscheincode lautet: {voucher_num}. Tragen Sie diese Nummer einfach in das Feld unter dem Warenkorb bei Ihrer nächsten Bestellung
+
+{shop_url} Powered by PrestaShop™

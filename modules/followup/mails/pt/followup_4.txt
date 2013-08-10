@@ -1,0 +1,13 @@
+Sentimos a sua falta na loja {shop_name}
+
+Olá {firstname} {lastname},
+
+É um dos nossos melhores Clientes, ainda assim não colocou nenhuma encomenda nos últimos {days_threshold} dias.
+
+Queremos agradecer a sua confiança que deposita na nossa loja e queremos oferecer-lhe um desconto de {amount}% válido na sua próxima encomenda! Esta oferta é válida apenas por {days} dias, por isso não desperdice esta oportunidade!
+
+Aqui está o seu Vale de Desconto: {voucher_num}
+
+Introduza este código no seu Carrinho de Compras para receber este desconto.
+ 
+{shop_name} powered with PrestaShop™

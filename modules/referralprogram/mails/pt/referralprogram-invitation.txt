@@ -1,0 +1,15 @@
+{firstname_friend} {lastname_friend}, junte-se a nós!
+
+O seu amigo {firstname} {lastname} quer ser seu patrocinador em {shop_name}!
+
+Converta-se em seu patrocinado para ganhar um cupão de {discount}! 
+
+É muito fácil se inscrever. Basta clicar no link a seguir:
+
+{shop_url}{link}
+
+Ao inscrever-se, não se esqueça de fornecer o e-mail de seu patrocinador: {email}.
+
+
+
+{shop_url} powered by PrestaShop™

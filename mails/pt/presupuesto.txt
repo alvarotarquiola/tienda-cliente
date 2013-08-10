@@ -1,0 +1,8 @@
+Hola {firstname} {lastname},
+	
+Sobre tu pedido #{id_order}:
+
+Hemos recibido su solicitud de presupuesto. En breve contactaremos con usted para indicarle nuestra valoración económica.
+
+
+{shop_url} desarrollado por PrestaShop¬

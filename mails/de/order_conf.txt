@@ -1,0 +1,45 @@
+Hallo {firstname} {lastname},
+vielen Dank für Ihren Einkauf bei {shop_name}!
+
+Bestellübersicht
+=================
+
+	Bestellung: {order_name} vom {date}
+	Zahlungsart: {payment}
+
+	Produkte: {total_products}
+	Rabatte: {total_discounts}
+	Versand: {total_shipping}
+	Geschenkverpackung: {total_wrapping}
+	Gesamt: {total_paid}
+
+
+Versand
+==============
+
+	Spediteur{carrier}
+
+	Lieferadresse:
+
+	{delivery_company}
+	{delivery_firstname} {delivery_lastname}
+	{delivery_address1}
+	{delivery_address2}
+	{delivery_postal_code} {delivery_city}
+	{delivery_country} {delivery_state}
+	{delivery_other}
+
+	Rechnungsadresse:
+
+	{invoice_company}
+	{invoice_firstname} {invoice_lastname}
+	{invoice_address1}
+	{invoice_address2}
+	{invoice_postal_code} {invoice_city}
+	{invoice_country} {invoice_state}
+	{invoice_other}
+
+Sie können Ihre Bestellung jederzeit in der "Bestellhistorie" Ihres Kundenkontos einsehen. Dort können Sie ebenfalls Ihre Rechnung herunterladen. Besuchen Sie dazu einfach unseren Shop und melden sich mit Ihrem "Benutzernamen und Passwort" an.
+
+
+{shop_url} powered by PrestaShop™

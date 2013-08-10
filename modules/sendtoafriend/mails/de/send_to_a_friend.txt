@@ -1,0 +1,7 @@
+Hallo {name},
+
+{customer} hat Ihnen einen Link geschickt, der Sie interessieren könnte
+
+Besuchen Sie die Produktseite mit weiteren Infos: {product} 
+
+{shop_url} Powered by PrestaShop™

@@ -1,0 +1,611 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+					xmlns:x="urn:schemas-microsoft-com:office:excel"
+					xmlns="http://www.w3.org/TR/REC-html40">
+					
+					<head>
+					<meta http-equiv=Content-Type content="text/html;charset=UTF-8">
+					<meta name=ProgId content=Excel.Sheet>
+					<meta name=Generator content="Microsoft Excel 11">
+					<link rel=File-List href="tempo_archivos/filelist.xml">
+					<link rel=Edit-Time-Data href="tempo_archivos/editdata.mso">
+					<link rel=OLE-Object-Data href="tempo_archivos/oledata.mso">
+					<!--[if gte mso 9]><xml>
+					 <o:DocumentProperties>
+					  <o:Author>WinuE</o:Author>
+					  <o:LastAuthor>WinuE</o:LastAuthor>
+					  <o:Created>2010-07-20T02:44:40Z</o:Created>
+					  <o:LastSaved>2010-07-20T02:44:58Z</o:LastSaved>
+					  <o:Company>Windows uE</o:Company>
+					  <o:Version>11.8132</o:Version>
+					 </o:DocumentProperties>
+					</xml><![endif]-->
+					<style>
+					<!--table
+						{mso-displayed-decimal-separator:"\.";
+						mso-displayed-thousand-separator:"\,";}
+					@page
+						{margin:.98in .79in .98in .79in;
+						mso-header-margin:0in;
+						mso-footer-margin:0in;}
+					tr
+						{mso-height-source:auto;}
+					col
+						{mso-width-source:auto;}
+					br
+						{mso-data-placement:same-cell;}
+					.style0
+						{mso-number-format:General;
+						text-align:general;
+						vertical-align:bottom;
+						white-space:nowrap;
+						mso-rotate:0;
+						mso-background-source:auto;
+						mso-pattern:auto;
+						color:windowtext;
+						font-size:10.0pt;
+						font-weight:400;
+						font-style:normal;
+						text-decoration:none;
+						font-family:Arial;
+						mso-generic-font-family:auto;
+						mso-font-charset:0;
+						border:none;
+						mso-protection:locked visible;
+						mso-style-name:Normal;
+						mso-style-id:0;}
+					td
+						{mso-style-parent:style0;
+						padding-top:1px;
+						padding-right:1px;
+						padding-left:1px;
+						mso-ignore:padding;
+						color:windowtext;
+						font-size:10.0pt;
+						font-weight:400;
+						font-style:normal;
+						text-decoration:none;
+						font-family:Arial;
+						mso-generic-font-family:auto;
+						mso-font-charset:0;
+						mso-number-format:General;
+						text-align:general;
+						vertical-align:bottom;
+						border:none;
+						mso-background-source:auto;
+						mso-pattern:auto;
+						mso-protection:locked visible;
+						white-space:nowrap;
+						mso-rotate:0;}
+					.normal
+						{mso-style-parent:style0;
+						white-space:normal;}
+					.numero
+						{mso-style-parent:style0;
+						white-space:normal;}
+					.fecha
+						{mso-style-parent:style0;
+						mso-number-format:"Short Date";}
+					.theader
+						{mso-style-parent:style0;
+						border:.5pt solid #000000;
+						color: white;
+						background: #999999;
+						text-align:center; font-weight:700;
+						font-size:10px;
+						vertical-align:middle;
+						white-space:normal;
+						mso-pattern:auto none; }
+					.bold
+						{mso-style-parent:style0;
+						font-weight:700;
+						font-size:15px;
+						}
+				.xs0{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs1{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs2{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs3{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs4{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs5{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs6{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs7{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs8{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs9{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs10{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs11{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs12{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs13{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs14{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs15{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs16{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs17{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs18{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+				
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>Hoja1</x:Name>
+					<x:WorksheetOptions>
+					 <x:DefaultColWidth>10</x:DefaultColWidth>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10740</x:WindowHeight>
+				  <x:WindowWidth>17595</x:WindowWidth>
+				  <x:WindowTopX>480</x:WindowTopX>
+				  <x:WindowTopY>90</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse;table-layout:fixed;">
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<tr>
+<td class=xs0  align=center  width=80 style=' width:60pt ' >Cat-Ref</td>
+<td class=xs1  align=center  width=90 style=' width:68pt ' >1-Cat-order</td>
+<td class=xs2  align=center  width=120 style=' width:90pt ' >1-Cat-lang-1</td>
+<td class=xs3  align=center  width=120 style=' width:90pt ' >1-Cat-lang-2</td>
+<td class=xs4  align=center  width=120 style=' width:90pt ' >1-Cat-lang-3</td>
+<td class=xs5  align=center  width=120 style=' width:90pt ' >1-Cat-lang-4</td>
+<td class=xs6  align=center  width=120 style=' width:90pt ' >1-Cat-lang-5</td>
+<td class=xs7  align=center  width=90 style=' width:68pt ' >2-Cat-order</td>
+<td class=xs8  align=center  width=120 style=' width:90pt ' >2-Cat-lang-1</td>
+<td class=xs9  align=center  width=120 style=' width:90pt ' >2-Cat-lang-2</td>
+<td class=xs10  align=center  width=120 style=' width:90pt ' >2-Cat-lang-3</td>
+<td class=xs11  align=center  width=120 style=' width:90pt ' >2-Cat-lang-4</td>
+<td class=xs12  align=center  width=120 style=' width:90pt ' >2-Cat-lang-5</td>
+<td class=xs13  align=center  width=90 style=' width:68pt ' >3-Cat-order</td>
+<td class=xs14  align=center  width=120 style=' width:90pt ' >3-Cat-lang-1</td>
+<td class=xs15  align=center  width=120 style=' width:90pt ' >3-Cat-lang-2</td>
+<td class=xs16  align=center  width=120 style=' width:90pt ' >3-Cat-lang-3</td>
+<td class=xs17  align=center  width=120 style=' width:90pt ' >3-Cat-lang-4</td>
+<td class=xs18  align=center  width=120 style=' width:90pt ' >3-Cat-lang-5</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-13</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Abierta Lote 1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-14</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Abierta Lote 2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-19</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-21</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-23</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-24</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-27</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-28</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-31</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-33</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-34</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-37</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-38</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-40</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >CR-42</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+</tr>
+</table></body></html>

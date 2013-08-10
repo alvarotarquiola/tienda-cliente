@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Mensaje desde {shop_name}</title>
+</head>
+<body>
+	<table style="font-family:Verdana,sans-serif; font-size:11px; color:#374953; width: 550px;">
+		<tr>
+			<td align="left">
+				<a href="{shop_url}" title="{shop_name}"><img alt="{shop_name}" src="{shop_logo}" style="border:none;" ></a>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left">Bonjour <strong style="color:#DB3484;">{firstname} {lastname}</strong>,</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;">Concernant
+			  votre commande :
+			  {id_order}</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left">
+				<b>Votre command a ete confirme </b>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+		  <td align="left">
+				Votre commnde {id_order} a ete verifie, vous pouver proceder
+				  au payement depuis notre magasin en accedant directement de
+				  vostre commande. <br>
+				  <br>
+		    Les produits qui sont pas disponibles en le moment, out ete transferes
+		    sur une nouvelle commande en attente de livraison. <br>
+ 
+			  <br>
+			  <span style="font-size:10.0pt;mso-bidi-font-size:6.5pt;font-family:Arial;
+  color:#374953">Vous pouvez accéder au suivi de votre commande et télécharger
+			  votre facture depuis <a
+  href="{shop_url}history.php"><b><span
+  style='color:#DB3484;text-decoration:none;text-underline:none'>&quot;Historique
+			  des commandes&quot;</span></b></a> dans la rubrique <a
+  href="{shop_url}my-account.php"><b><span
+  style='color:#DB3484;text-decoration:none;text-underline:none'>&quot;Mon compte&quot;</span></b></a> sur
+			  notre site.
+  <o:p></o:p>
+			  </span></td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="center" style="font-size:10px; border-top: 1px solid #D9DADE;">
+			<a href="{shop_url}" style="color:#DB3484; font-weight:bold; text-decoration:none;">{shop_name}</a></td>
+		</tr>
+	</table>
+</body>
+</html>

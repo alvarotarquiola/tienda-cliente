@@ -1,0 +1,9 @@
+Olá
+
+Devido à sua subscrição da newsletter, temos o prazer de lhe oferecer o seguinte Vale de Desconto: {discount}
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} Powered by PrestaShop™

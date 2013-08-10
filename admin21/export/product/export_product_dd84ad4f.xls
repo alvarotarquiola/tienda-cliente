@@ -1,0 +1,266 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+					xmlns:x="urn:schemas-microsoft-com:office:excel"
+					xmlns="http://www.w3.org/TR/REC-html40">
+					
+					<head>
+					<meta http-equiv=Content-Type content="text/html;charset=UTF-8">
+					<meta name=ProgId content=Excel.Sheet>
+					<meta name=Generator content="Microsoft Excel 11">
+					<link rel=File-List href="tempo_archivos/filelist.xml">
+					<link rel=Edit-Time-Data href="tempo_archivos/editdata.mso">
+					<link rel=OLE-Object-Data href="tempo_archivos/oledata.mso">
+					<!--[if gte mso 9]><xml>
+					 <o:DocumentProperties>
+					  <o:Author>WinuE</o:Author>
+					  <o:LastAuthor>WinuE</o:LastAuthor>
+					  <o:Created>2010-07-20T02:44:40Z</o:Created>
+					  <o:LastSaved>2010-07-20T02:44:58Z</o:LastSaved>
+					  <o:Company>Windows uE</o:Company>
+					  <o:Version>11.8132</o:Version>
+					 </o:DocumentProperties>
+					</xml><![endif]-->
+					<style>
+					<!--table
+						{mso-displayed-decimal-separator:"\.";
+						mso-displayed-thousand-separator:"\,";}
+					@page
+						{margin:.98in .79in .98in .79in;
+						mso-header-margin:0in;
+						mso-footer-margin:0in;}
+					tr
+						{mso-height-source:auto;}
+					col
+						{mso-width-source:auto;}
+					br
+						{mso-data-placement:same-cell;}
+					.style0
+						{mso-number-format:General;
+						text-align:general;
+						vertical-align:bottom;
+						white-space:nowrap;
+						mso-rotate:0;
+						mso-background-source:auto;
+						mso-pattern:auto;
+						color:windowtext;
+						font-size:10.0pt;
+						font-weight:400;
+						font-style:normal;
+						text-decoration:none;
+						font-family:Arial;
+						mso-generic-font-family:auto;
+						mso-font-charset:0;
+						border:none;
+						mso-protection:locked visible;
+						mso-style-name:Normal;
+						mso-style-id:0;}
+					td
+						{mso-style-parent:style0;
+						padding-top:1px;
+						padding-right:1px;
+						padding-left:1px;
+						mso-ignore:padding;
+						color:windowtext;
+						font-size:10.0pt;
+						font-weight:400;
+						font-style:normal;
+						text-decoration:none;
+						font-family:Arial;
+						mso-generic-font-family:auto;
+						mso-font-charset:0;
+						mso-number-format:General;
+						text-align:general;
+						vertical-align:bottom;
+						border:none;
+						mso-background-source:auto;
+						mso-pattern:auto;
+						mso-protection:locked visible;
+						white-space:nowrap;
+						mso-rotate:0;}
+					.normal
+						{mso-style-parent:style0;
+						white-space:normal;}
+					.numero
+						{mso-style-parent:style0;
+						white-space:normal;}
+					.fecha
+						{mso-style-parent:style0;
+						mso-number-format:"Short Date";}
+					.theader
+						{mso-style-parent:style0;
+						border:.5pt solid #000000;
+						color: white;
+						background: #999999;
+						text-align:center; font-weight:700;
+						font-size:10px;
+						vertical-align:middle;
+						white-space:normal;
+						mso-pattern:auto none; }
+					.bold
+						{mso-style-parent:style0;
+						font-weight:700;
+						font-size:15px;
+						}
+				.xs0{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs1{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs2{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs3{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs4{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs5{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs6{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs7{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs8{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs9{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs10{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs11{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs12{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs13{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs14{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs15{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs16{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs17{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs18{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs19{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs20{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs21{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs22{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs23{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs24{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs25{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs26{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs27{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs28{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs29{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs30{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs31{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs32{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs33{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs34{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs35{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs36{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs37{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs38{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs39{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs40{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs41{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs42{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs43{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+				
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>Hoja1</x:Name>
+					<x:WorksheetOptions>
+					 <x:DefaultColWidth>10</x:DefaultColWidth>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10740</x:WindowHeight>
+				  <x:WindowWidth>17595</x:WindowWidth>
+				  <x:WindowTopX>480</x:WindowTopX>
+				  <x:WindowTopY>90</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse;table-layout:fixed;">
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<col width=200 style='mso-width-source:userset;width:150pt'>
+<tr>
+<td class=xs0  align=center  width=200 style=' width:150pt ' >Order</td>
+<td class=xs1  align=center  width=200 style=' width:150pt ' >Name-lang-1</td>
+<td class=xs2  align=center  width=200 style=' width:150pt ' >Name-lang-2</td>
+<td class=xs3  align=center  width=200 style=' width:150pt ' >Name-lang-3</td>
+<td class=xs4  align=center  width=200 style=' width:150pt ' >Name-lang-4</td>
+<td class=xs5  align=center  width=200 style=' width:150pt ' >Name-lang-5</td>
+<td class=xs6  align=center  width=200 style=' width:150pt ' >1-Cat</td>
+<td class=xs7  align=center  width=200 style=' width:150pt ' >2-Cat</td>
+<td class=xs8  align=center  width=200 style=' width:150pt ' >3-Cat</td>
+<td class=xs9  align=center  width=200 style=' width:150pt ' >Ref</td>
+<td class=xs10  align=center  width=200 style=' width:150pt ' >Active</td>
+<td class=xs11  align=center  width=200 style=' width:150pt ' >Price-without-TAX</td>
+<td class=xs12  align=center  width=200 style=' width:150pt ' >TAX</td>
+<td class=xs13  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-1</td>
+<td class=xs14  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-2</td>
+<td class=xs15  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-3</td>
+<td class=xs16  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-4</td>
+<td class=xs17  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-5</td>
+<td class=xs18  align=center  width=200 style=' width:150pt ' >Description-lang-1</td>
+<td class=xs19  align=center  width=200 style=' width:150pt ' >Description-lang-2</td>
+<td class=xs20  align=center  width=200 style=' width:150pt ' >Description-lang-3</td>
+<td class=xs21  align=center  width=200 style=' width:150pt ' >Description-lang-4</td>
+<td class=xs22  align=center  width=200 style=' width:150pt ' >Description-lang-5</td>
+<td class=xs23  align=center  width=200 style=' width:150pt ' >Supplier</td>
+<td class=xs24  align=center  width=200 style=' width:150pt ' >Ref-supplier</td>
+<td class=xs25  align=center  width=200 style=' width:150pt ' >Manufecture</td>
+<td class=xs26  align=center  width=200 style=' width:150pt ' >Weight</td>
+<td class=xs27  align=center  width=200 style=' width:150pt ' >Ecotax</td>
+<td class=xs28  align=center  width=200 style=' width:150pt ' >Sale</td>
+<td class=xs29  align=center  width=200 style=' width:150pt ' >Sale-amount</td>
+<td class=xs30  align=center  width=200 style=' width:150pt ' >Sale-%</td>
+<td class=xs31  align=center  width=200 style=' width:150pt ' >Sale-from</td>
+<td class=xs32  align=center  width=200 style=' width:150pt ' >Sale-up</td>
+<td class=xs33  align=center  width=200 style=' width:150pt ' >Stock</td>
+<td class=xs34  align=center  width=200 style=' width:150pt ' >Text-available-lang-1</td>
+<td class=xs35  align=center  width=200 style=' width:150pt ' >Text-available-lang-2</td>
+<td class=xs36  align=center  width=200 style=' width:150pt ' >Text-available-lang-3</td>
+<td class=xs37  align=center  width=200 style=' width:150pt ' >Text-available-lang-4</td>
+<td class=xs38  align=center  width=200 style=' width:150pt ' >Text-available-lang-5</td>
+<td class=xs39  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-1</td>
+<td class=xs40  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-2</td>
+<td class=xs41  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-3</td>
+<td class=xs42  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-4</td>
+<td class=xs43  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-5</td>
+</tr>
+</table></body></html>

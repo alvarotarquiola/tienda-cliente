@@ -1,0 +1,7 @@
+Hallo {firstname} {lastname},
+
+{product} ist ab sofort wieder verfügbar!
+
+Sie können das ab sofort wieder bei {shop_name} bestellen!
+
+{shop_url} Powered by PrestaShop™

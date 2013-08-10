@@ -1,0 +1,9 @@
+Hallo {firstname} {lastname},
+
+Ihr Warenkorb bei {shop_name}
+
+bei Ihrem letzten Besuch haben Sie Ihren Einkauf nicht abgeschlossen. Ihr Warenkorb ist gespeichert, Sie können Ihren Einkauf bei {shop_url} fortsetzen.
+
+Dafür gewähren wir Ihenen einen Rabatt in Höhe von {amount}% auf Ihre Bestellung. Ihre Gutscheinnummer lautet {voucher_num}. Dies Angebot ist {days} Tage gültig, also nichts wie hin!
+
+{shop_url} Powered by PrestaShop™

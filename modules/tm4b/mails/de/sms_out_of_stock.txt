@@ -1,0 +1,5 @@
+{shop_name}
+Das Produkt ist bald nicht mehr auf Lager
+Art: {product_ref}
+Id: {product_id}
+Menge: {qty}

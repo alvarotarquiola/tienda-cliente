@@ -1,0 +1,23 @@
+<li class="clearfix">
+                                <div class="center_block">
+                                    <a class="product_img_link">
+                                        <img src="'.$dir_img_default.'"/>
+                                    </a>
+                                    <h3>sdaksdasdh</h3> 
+                                    <p class="product_desc">askdasdhjashdjahsdjahs</p>                         
+                                </div>
+                                <div class="right_block">
+                                    <span class="on_sale">dsdfsdfsd</span>
+                                    <div>
+                                        <span class="price" style="display: inline;">40,00 €</span>
+                                        <br>
+                                        <span class="availability">Disponible</span>
+                                    </div>
+                                    <a class="exclusive" title="A&ntilde;adir al carrito" href="http://localhost/tienda/cart.php?add&id_product=7401&token=893a6383e7fb7b57a8fc75e2250f76fa" rel="ajax_id_product_7401">
+                                        A&ntilde;adir al carrito
+                                    </a>
+                                    <a class="ver" title="Ver" href="http://localhost/tienda/product.php?id_product=7401">
+                                        Ver
+                                    </a>
+                                </div>
+                            </li>

@@ -1,0 +1,11 @@
+Hallo {firstname} {lastname},
+
+Vielen Dank für Ihr Vertrauen
+
+Sie sind einer unserer besten Kunden und wir möchten Ihnen für Ihr Vertrauen danken.
+
+Und zwar mit einem Rabatt in Höhe von {amount}% auf Ihre nächste Bestellung. Ihre Gutscheinnummer lautet {voucher_num}. 
+
+Dies Angebot ist {days} Tage gültig, also nichts wie hin!
+
+{shop_url} Powered by PrestaShop™

@@ -1,0 +1,759 @@
+[31-May-2012 08:40:14] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_8-40-14) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:40:14] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:40:14] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:40:14] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:40:14] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:40:14] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:41:08] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_8-41-08) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:41:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:41:08] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:41:08] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:41:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:41:08] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:58:58] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_8-58-58) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:58:58] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:58:58] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:58:58] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:58:58] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:58:58] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:59:36] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_8-59-36) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:59:36] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:59:36] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 08:59:36] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 08:59:36] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 08:59:36] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 09:14:33] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_9-14-33) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 09:14:33] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 09:14:33] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 09:14:33] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 09:14:33] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 09:14:33] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 09:15:10] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_9-15-10) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 09:15:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 09:15:10] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 09:15:10] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 09:15:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 09:15:10] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 10:13:08] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_10-13-08) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 10:13:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 10:13:08] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 10:13:08] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 10:13:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 10:13:08] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 10:13:53] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_10-13-53) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 10:13:53] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 10:13:53] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 10:13:53] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 10:13:53] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 10:13:53] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 15:40:48] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_15-40-48) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 15:40:48] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 15:40:48] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 15:40:48] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 15:40:48] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 15:40:48] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 15:41:39] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_15-41-39) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 15:41:39] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 15:41:39] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 15:41:39] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 15:41:39] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 15:41:39] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:28:15] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_16-28-15) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:28:15] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:28:15] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:28:15] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:28:15] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:28:15] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:28:16] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_16-28-16) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:28:16] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:28:16] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:28:16] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:28:16] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:28:16] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:45:18] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_16-45-18) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:45:18] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:45:18] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:45:18] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:45:18] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:45:18] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:46:44] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/imagenes_31-05-2012_16-46-44) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:46:44] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:46:44] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 16:46:44] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 16:46:44] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 16:46:44] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:16:28] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_17-16-28) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:16:28] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:16:28] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:16:28] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:16:28] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:16:28] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:18:30] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_17-18-30) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:18:30] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:18:30] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:18:30] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:18:30] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:18:30] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:19:32] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/adjuntos_31-05-2012_17-19-32) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:19:32] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:19:32] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:19:32] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:19:32] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:19:32] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:24:02] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos../../..//transferidas/adjuntos_31-05-2012_17-24-02) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:24:02] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:24:02] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:24:02] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos../../..//transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:24:02] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:24:02] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:24:47] PHP Fatal error:  Call to undefined function mime_content_type() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 185
+[31-May-2012 17:27:29] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_31-05-2012_17-27-29) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 17:27:29] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 17:27:29] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 17:29:15] PHP Fatal error:  Call to undefined function mime_content_type() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 185
+[31-May-2012 17:35:25] PHP Fatal error:  Call to undefined function finfo_open() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 188
+[31-May-2012 17:38:46] PHP Fatal error:  Class 'finfo' not found in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 188
+[31-May-2012 17:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 17:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 17:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 17:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 17:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:00:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:00:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:00:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:00:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:00:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:02:09] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:02:09] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:02:09] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:02:09] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:02:09] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:03:41] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:03:41] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:03:41] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:03:41] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 18:03:41] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 19:34:49] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:34:49] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:34:49] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:42:20] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_31-05-2012_19-42-20) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:42:20] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:42:20] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:42:20] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:42:20] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:42:20] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:42:21] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_31-05-2012_19-42-21) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:42:21] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:42:21] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:42:21] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:42:21] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:42:21] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:42:42] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_31-05-2012_19-42-42) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:42:42] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:42:42] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:42:43] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_31-05-2012_19-42-43) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:42:43] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:42:43] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:43:51] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_31-05-2012_19-43-51) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:43:51] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:43:51] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:43:51] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:43:51] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:43:51] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:43:59] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_31-05-2012_19-43-59) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:43:59] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:43:59] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 19:44:00] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_31-05-2012_19-44-00) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 19:44:00] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 19:44:00] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 20:21:39] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_31-05-2012_20-21-39) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 20:21:39] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 20:21:39] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 20:21:39] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 20:21:39] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 20:21:39] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 20:22:46] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_31-05-2012_20-22-46) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[31-May-2012 20:22:46] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[31-May-2012 20:22:46] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[31-May-2012 20:23:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:30] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[01-Jun-2012 11:23:30] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[01-Jun-2012 11:23:30] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[01-Jun-2012 11:38:11] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_1-06-2012_11-38-11) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[01-Jun-2012 11:38:11] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[01-Jun-2012 11:38:11] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[01-Jun-2012 11:38:11] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[01-Jun-2012 11:38:11] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[01-Jun-2012 11:38:11] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[01-Jun-2012 12:15:50] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[01-Jun-2012 12:15:50] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[01-Jun-2012 12:15:50] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 08:03:42] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_4-06-2012_8-03-42) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 08:03:42] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 08:03:42] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 08:03:42] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 08:03:42] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 08:03:42] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 08:03:50] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_4-06-2012_8-03-50) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 08:03:50] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 08:03:50] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 08:41:25] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 08:41:25] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:41:25] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 08:44:42] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 08:44:42] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 08:44:42] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 08:46:26] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 08:46:26] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 08:46:26] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 09:27:19] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 09:27:19] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 09:27:19] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 09:32:53] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:53] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:53] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:53] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:53] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:53] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:32:54] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 09:33:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:08:34] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_4-06-2012_10-08-34) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 10:08:34] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 10:08:34] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:09:59] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[04-Jun-2012 10:33:07] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[04-Jun-2012 10:33:07] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[04-Jun-2012 10:33:07] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[06-Jun-2012 10:21:10] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[06-Jun-2012 10:21:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[06-Jun-2012 10:21:10] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[06-Jun-2012 10:21:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 10:21:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:20] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[06-Jun-2012 17:14:20] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[06-Jun-2012 17:14:20] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:14:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:01] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[06-Jun-2012 17:28:01] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[06-Jun-2012 17:28:01] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 17:28:07] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:13:44] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[06-Jun-2012 18:13:44] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[06-Jun-2012 18:13:44] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[06-Jun-2012 18:54:51] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[06-Jun-2012 18:54:51] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[06-Jun-2012 18:54:51] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:49] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 10:59:50] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:07] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_7-06-2012_11-07-07) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[07-Jun-2012 11:07:07] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[07-Jun-2012 11:07:07] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[07-Jun-2012 11:07:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:13] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:10:47] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:15:26] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:17:06] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 11:22:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:30:49] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[07-Jun-2012 19:30:49] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[07-Jun-2012 19:30:49] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[07-Jun-2012 19:31:23] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-60/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jun-2012 11:31:06] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_9-06-2012_11-31-06) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:31:06] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:31:06] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:31:06] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:31:06] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:31:06] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:31:27] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_9-06-2012_11-31-27) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:31:27] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:31:27] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:31:27] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:31:27] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:31:27] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:31:47] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/adjuntos_9-06-2012_11-31-47) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:31:47] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:31:47] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:32:14] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_9-06-2012_11-32-14) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:32:14] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:32:14] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:32:14] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:32:14] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:32:14] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:32:56] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_9-06-2012_11-32-56) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:32:56] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:32:56] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jun-2012 11:32:56] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jun-2012 11:32:56] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jun-2012 11:32:56] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[19-Jun-2012 11:20:34] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[19-Jun-2012 11:20:34] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[19-Jun-2012 11:20:34] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[19-Jun-2012 11:33:51] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[19-Jun-2012 11:33:51] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[19-Jun-2012 11:33:51] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/qcpjuuzu/public_html/Tienda-70/img/p/28-7.jpg' is not a valid JPEG file in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 167
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/qcpjuuzu/public_html/Tienda-70/img/p/28-7.jpg' is not a valid JPEG file in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 167
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/qcpjuuzu/public_html/Tienda-70/img/p/28-7.jpg' is not a valid JPEG file in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 167
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/qcpjuuzu/public_html/Tienda-70/img/p/28-7.jpg' is not a valid JPEG file in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 167
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/qcpjuuzu/public_html/Tienda-70/img/p/28-7.jpg' is not a valid JPEG file in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 219
+[09-Jul-2012 17:12:58] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/qcpjuuzu/public_html/Tienda-70/images.inc.php on line 167
+[09-Jul-2012 17:12:58] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jul-2012 17:12:58] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jul-2012 17:12:58] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:13:03] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/mime.php on line 180
+[09-Jul-2012 17:16:24] PHP Warning:  opendir(/home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/../../../transferidas/imagenes_9-07-2012_17-16-24) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jul-2012 17:16:24] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jul-2012 17:16:24] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24
+[09-Jul-2012 17:16:24] PHP Warning:  opendir(/home/qcpjuuzu/public_html/transferidas/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 11
+[09-Jul-2012 17:16:24] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 14
+[09-Jul-2012 17:16:24] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/qcpjuuzu/public_html/Tienda-70/admin21/tabs/AdminImagenesAdjuntos/funciones.php on line 24

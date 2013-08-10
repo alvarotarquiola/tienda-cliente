@@ -1,0 +1,5 @@
+Hallo,
+
+Dies ist eine Test-E-Mail aus Ihrem PrestaShop.
+
+{shop_name} powered with PrestaShop™	

@@ -1,0 +1,7 @@
+Olá,
+
+{shop_name} estende o convite para que envie este link para os seus amigos, de forma a que possam ver a sua lista de desejos {wishlist}:
+
+{message}
+
+{shop_url} realised by PrestaShop™

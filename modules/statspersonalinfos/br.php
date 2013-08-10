@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_8063f7c341dbe2cadc294a530cb1cad2'] = 'Informação do cliente registrado';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_c11da97e88261de65e614a77cd3358df'] = 'Mostrar características como idade e sexo';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_0df28a79b0b6ee5f2a91da83bb07117c'] = 'Distribuição do gênero permite-lhe determinar a porcentagem de homens e mulheres entre os seus clientes.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_66ea53c179f966ec08fc4710c60a85be'] = 'Faixas etárias permite determinar em que faixa etária são os seus clientes';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_5186059c6452b447e8253c75b2afac5b'] = 'Distribuição por país permite-lhe determinar em que parte do mundo são os seus clientes.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_f761b4cc905eb0fea56adb2bf7f8588f'] = 'Moedas correntes lhe permite determinar a sua moeda com a qual os clientes pagam.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_104b6b6b33de198be0f8f3f438171c0f'] = 'Distribuição de linguagem  permite-lhe determinar a língua geral em que seus clientes utilizam em sua loja.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7a7012cc5c52802b45aed45d1f616f1e'] = 'Não há clientes registrados ainda.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_6602bbeb2956c035fb4cb5e844a4861b'] = 'Guia';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_3ca26e413e485538a7f3e610c0324636'] = 'Seu público alvo';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_c8eb1ba430d9ae8fe45fe2d990a481f5'] = 'Em cada mensagem de compra para ter um impacto, você precisa saber para quem ela deve ser dirigida.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e6ef09df5048542d6a707c311661e901'] = 'O endereçamento é importante para a escolha das ferramentas certas para ganhar a mais.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_cb720046e3ddcb4045cb42d996ff1021'] = 'É melhor para limitar esta ação a um grupo ou grupos de clientes.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_d002ddab9aa8d394956eadd0bc147dad'] = 'Registra informações dos clientes que permite a você definir com precisão como perfil dos clientes de modo que você pode adaptar os seus vários critérios de ofertas.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_2a1348fc5f72c2fff24ffc3b06bc0f44'] = 'Você deve utilizar estas informações para aumentar suas vendas através de:';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_6949590f26952904094acfa988471495'] = 'Lançamento de campanhas de publicidade dirigida a clientes específicos que possam estar interessados em uma determinada oferta, em determinadas datas e horários';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7878438ad0cb68d43646e19bf8cda504'] = 'Entrando em contato com um grupo de clientes por e-mail/newsletter.';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_8dc514f6da8c696c4a522efc145ad28a'] = 'Sexo Distribuição';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_63889cfb9d3cbe05d1bd2be5cc9953fd'] = 'Masculino';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_b719ce180ec7bd9641fece2f920f4817'] = 'Feminino';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_88183b946cc5f0e8c96b2e66e1c74a7e'] = 'Desconhecido';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_0e8cb607499d7862540d5736f6ab84e3'] = 'Faixa de idade';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_306fb378f025305fd17ec219fb193797'] = '0-18 anos';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_95ad6a8434399a1020f496ae093394a1'] = '18-24 anos';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_fb0d334f12a24f10715baef863e20db7'] = '25-34 anos';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_268750725a2f1cba57267447006d22ef'] = '35-49 anos';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_31974086ef82d676924acbb48fc3de1e'] = '50-59 anos';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e7f407fa37f8cd8c5900329882ad4529'] = '60 anos ou mais';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_73b0130037e21b76351aebfd29d0b9aa'] = 'País de distribuição';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_28e81c8343702f6c813cc31a7f90616a'] = 'Moeda de distribuição';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_f1dd68fb6a00d3e4d7f751deacde995d'] = 'Linguagem de distribuição';

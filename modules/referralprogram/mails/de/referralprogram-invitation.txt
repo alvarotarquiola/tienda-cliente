@@ -1,0 +1,12 @@
+{firstname_friend} {lastname_friend}, besuchen Sie uns!
+
+{firstname} {lastname}, möchte Ihnen einen Gutschein bei {shop_name} schenken!
+
+Melden Sie sich jetzt an und ergalten Sie einen Gutschein in Höhe von {discount}! 
+
+Klicken Sie hier für weitere Infos
+
+Geben Sie bei der Anmeldung die E-Mail-Adresse Ihres Freundes an: {email}. 
+
+{shop_url} Powered by PrestaShop™
+

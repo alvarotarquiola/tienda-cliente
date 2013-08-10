@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{moneybookers}prestashop>moneybookers-currency-error_6484c945379d81c37ac734c9768605cf'] = 'Sie können per Moneybookers nicht mit der aktuellen Währung bezahlen. Bitte wählen Sie eine andere Währung.';
+$_MODULE['<{moneybookers}prestashop>moneybookers-form_25065e3ef9274f9b0e3088340f6d79e6'] = 'Zahlung mit Kreditkarte';
+$_MODULE['<{moneybookers}prestashop>moneybookers-form_2cc66b7b26e92326afa76a021442330e'] = 'Zahlung mit Moneybookers eWallet';
+$_MODULE['<{moneybookers}prestashop>moneybookers_6861a58e2be4956b3f2fd6420fe6c28c'] = 'Moneybookers';
+$_MODULE['<{moneybookers}prestashop>moneybookers_07bf11ff6eaf27b8aa91f42d7fb4200c'] = 'Zahlungen mittels Moneybookers akzeptieren';
+$_MODULE['<{moneybookers}prestashop>moneybookers_fa214007826415a21a8456e3e09f999d'] = 'Ihre Einstellungen werden gelöscht. Sind Sie sicher?';
+$_MODULE['<{moneybookers}prestashop>moneybookers_bd65b912e0152f62629b6afeaa8398f4'] = 'Kann keine Verbindung mit dem Aktivierungsserver aufbauen, versuchen Sie es später noch einmal';
+$_MODULE['<{moneybookers}prestashop>moneybookers_c9f3e0397a1b070092ab4f0bf046fd4a'] = 'Verifizierung des Geheimwortes fehlgeschlagen. Überprüfen Sie Ihre E-Mail-Adresse.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_214186253fc29d921411c68ac88d942e'] = 'Verifizierung des Geheimwortes fehlgeschlagen. Die Maximalanzahl der Versuche ist 3 Mal pro Stunde. ';
+$_MODULE['<{moneybookers}prestashop>moneybookers_ccd8489089bfa25fffbc82674bf6b8b5'] = 'Verifizierung des Geheimwortes fehlgeschlagen. Überprüfen Sie Ihr Geheimwort.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_8e6b1c8d8d05890a5073b598c7b5dc54'] = 'Aktivierung erfolgreich, Geheimwort ok.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_86ea4c04e5385412960348c17da0d549'] = 'Ihr Moneybokers-Konto eröffnen:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_c3b308778c00b817007364e347123b86'] = 'Ihr Moneybokers-Konto eröffnen:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_6ad110d7504947dafa5c737284fe9f00'] = 'Mit dem Modul können Sie Zahlungen über Moneybookers abwickeln.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_a9dd80641753cafc9c967e317ba92a28'] = 'Über Moneybookers';
+$_MODULE['<{moneybookers}prestashop>moneybookers_b0b7f63af58ca5585787aa46a972bb8e'] = 'Moneybookers ist einer der Europas größten Online Zahlungssysteme und ist unter den führenden eWallet Providern mit über 11 Millionen Kunden weltweit. Das einfache eWallet-System ermöglicht es den Kunden, nur über eine E-Mail-Adresse schnell, sicher und kosten-effizient Onlinezahlungen abzuwickeln, ohne vertrauliche finanzielle Daten offen zu legen.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_e545ce3f77ed798605ba3dc853e7e040'] = 'Moneybookrs, weltweites Zahlungsnetzwerk bietet Zugang zu über 80 lokalen Zahlungsanbietern in über 200 Ländern mit nur einer Anmeldung. Mehr als 60.000 Händler nutzen bereits Moneybookrs.payments Service, darunter auch globale Partner, wie eBay, Skype und Thomas Cook.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_04a0e2e14bfc47151f158db3c1b03661'] = 'Moneybookrs wurde 2001 in London gegründet und wird über die Finanzaufsichtsbehörde des Vereinigten Königreichs gesteuert.';
+$_MODULE['<{moneybookers}prestashop>moneybookers_f4f70727dc34561dfde1a3c529b6205c'] = 'Einstellungen';
+$_MODULE['<{moneybookers}prestashop>moneybookers_dcdd329440459d191d3caa192028ebef'] = 'Bitte lesen Sie das Handbuch, um Moneybookers bei Prestashop zu aktivieren';
+$_MODULE['<{moneybookers}prestashop>moneybookers_cb7a0a41ef8d2fb632ae4a56d04fbc7f'] = 'Ihre E-Mail-Adresse:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_c5107a07a5be59f893a4184e09cecc21'] = 'Ihr Geheimwort';
+$_MODULE['<{moneybookers}prestashop>moneybookers_c3592b2bb3405f766f58dac4378306bd'] = 'Seite, die nach erfolgreicher Abwicklung angezeigt wird:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_87337b7475d1287ff99aaa30446b3bb7'] = 'Seite, die nach fehlgeschlagener  Abwicklung angezeigt wird:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_ab67f0d68dd6f5cb407e04abacd06120'] = 'Anmeldeform auf der Moneybookers Webseite verstecken';
+$_MODULE['<{moneybookers}prestashop>moneybookers_3fe2d645c0ebf657db2187f1c2a7f7fa'] = 'Wählen Sie das Logo für Kreditkarten:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_e92a7b744a874718698158fdacda82b6'] = 'Wählen Sie das Logo für eWallet:';
+$_MODULE['<{moneybookers}prestashop>moneybookers_dd162344994f615f7ed7d99169e77b22'] = 'Einstellungen speichern und Konto verfifizieren';

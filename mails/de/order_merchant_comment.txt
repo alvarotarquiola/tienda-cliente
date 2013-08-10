@@ -1,0 +1,11 @@
+Hallo {firstname} {lastname},
+
+Nachricht von {shop_name}
+==========================
+
+
+Sie haben eine neue Mitteilung zu Ihrer Bestellung #{id_order} erhalten: 
+
+{message} 
+
+{shop_name} powered with PrestaShop™ 

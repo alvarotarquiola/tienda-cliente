@@ -1,0 +1,13 @@
+Hallo {firstname} {lastname},
+
+Ihre Bestellung #{id_order} 
+==============================
+
+Ihre Bestellung wurde versandt und ist auf dem Weg zu Ihnen.
+
+Sie können die Bestellung verfolgen: {followup} 
+
+Sie können Ihre Bestellung jederzeit in der "Bestellhistorie" Ihres Kundenkontos einsehen. Dort können Sie ebenfalls Ihre Rechnung herunterladen. Besuchen Sie dazu einfach unseren Shop und melden sich mit Ihrem "Benutzernamen und Passwort" an.
+
+{shop_name} powered with PrestaShop™	
+

@@ -1,0 +1,14 @@
+Olá {name},
+
+
+{customer} enviou-lhe um link para um produto que lhe pode interessar.
+
+Clique no link abaixo para ver este item ({product}):
+{product_link}
+
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} powered by PrestaShop™

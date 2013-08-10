@@ -1,0 +1,11 @@
+Olá {firstname} {lastname},
+ 
+Obrigado por sua encomenda na loja {shop_name}
+ 
+Como agradecimento, queremos oferecer-lhe um desconto de {amount}% válido para a sua próxima encomenda! Esta oferta é válida apenas por {days} dias, não desperdice esta oportunidade!
+
+Aqui está o seu Vale de Desconto: {voucher_num}
+  
+Introduza este código no seu Carrinho de Compras para obter o seu desconto.
+ 
+{shop_name} powered with PrestaShop™

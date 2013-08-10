@@ -1,0 +1,15 @@
+Estimado(a) {firstname} {lastname},
+
+Observamos que, durante sua ultima visita em {shop_name}, voce nao validou o pedido que tinha começado.
+
+O seu carrinho foi salvo, voce pode retomar a sua encomenda ao visitar a nossa loja:
+
+{shop_url}
+
+Como excepcao, lhe concedemos um desconto de {amount}% valido para o seu proximo pedido! Esta oferta e valida para {days} dias, nao desperdice um momento!
+ 
+Aqui esta o seu cupao {voucher_num}
+   
+ Introduza este codigo em seu carrinho de compras para obter o desconto.
+ 
+{shop_name} powered with PrestaShop™ 

@@ -1,0 +1,60 @@
+[01-Sep-2010 18:49:01] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/tienda/admin21/tabs/AdminProducts.php on line 1432
+[06-Sep-2010 11:49:52] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/tienda/admin21/tabs/AdminProducts.php on line 1432
+[06-Sep-2010 11:51:45] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/tienda/admin21/tabs/AdminProducts.php on line 1432
+[06-Sep-2010 11:52:09] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/tienda/admin21/tabs/AdminProducts.php on line 1432
+[10-Nov-2010 16:42:28] PHP Warning:  Invalid argument supplied for foreach() in /home/qcpjuuzu/public_html/tienda/admin27/tabs/AdminProducts.php on line 1432
+[15-Nov-2010 15:35:05] PHP Fatal error:  Uncaught exception 'Swift_ConnectionException' with message 'Sending failed using mail() as PHP's default mail() function returned boolean FALSE.' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php:166
+Stack trace:
+#0 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php(146): Swift_Plugin_MailSend->doMail('palimp@gmail.co...', 'Mensaje de prue...', 'Este es un mens...', Object(Swift_Message_Headers), '-oi -f no-reply...')
+#1 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(171): Swift_Plugin_MailSend->sendPerformed(Object(Swift_Events_SendEvent))
+#2 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(462): Swift->notifyListeners(Object(Swift_Events_SendEvent), 'SendListener')
+#3 /home/qcpjuuzu/public_html/tienda/classes/Mail.php(136): Swift->send(Object(Swift_Message), 'palimp@gmail.co...', 'no-reply@www.te...')
+#4 /home/qcpjuuzu/public_html/tienda/admin27/ajax_send_mail_test.php(20): Mail::sendMailTest(false, '', 'Este es un mens...', 'Mensaje de prue...' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php on line 166
+[15-Nov-2010 15:38:49] PHP Fatal error:  Uncaught exception 'Swift_ConnectionException' with message 'Sending failed using mail() as PHP's default mail() function returned boolean FALSE.' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php:166
+Stack trace:
+#0 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php(146): Swift_Plugin_MailSend->doMail('palimp@gmail.co...', 'Mensaje de prue...', 'Este es un mens...', Object(Swift_Message_Headers), '-oi -f no-reply...')
+#1 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(171): Swift_Plugin_MailSend->sendPerformed(Object(Swift_Events_SendEvent))
+#2 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(462): Swift->notifyListeners(Object(Swift_Events_SendEvent), 'SendListener')
+#3 /home/qcpjuuzu/public_html/tienda/classes/Mail.php(136): Swift->send(Object(Swift_Message), 'palimp@gmail.co...', 'no-reply@www.te...')
+#4 /home/qcpjuuzu/public_html/tienda/admin27/ajax_send_mail_test.php(20): Mail::sendMailTest(false, '', 'Este es un mens...', 'Mensaje de prue...' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php on line 166
+[15-Nov-2010 15:42:37] PHP Fatal error:  Uncaught exception 'Swift_ConnectionException' with message 'Sending failed using mail() as PHP's default mail() function returned boolean FALSE.' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php:166
+Stack trace:
+#0 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php(146): Swift_Plugin_MailSend->doMail('palimp@gmail.co...', 'Mensaje de prue...', 'Este es un mens...', Object(Swift_Message_Headers), '-oi -f no-reply...')
+#1 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(171): Swift_Plugin_MailSend->sendPerformed(Object(Swift_Events_SendEvent))
+#2 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(462): Swift->notifyListeners(Object(Swift_Events_SendEvent), 'SendListener')
+#3 /home/qcpjuuzu/public_html/tienda/classes/Mail.php(136): Swift->send(Object(Swift_Message), 'palimp@gmail.co...', 'no-reply@www.te...')
+#4 /home/qcpjuuzu/public_html/tienda/admin27/ajax_send_mail_test.php(20): Mail::sendMailTest(false, '', 'Este es un mens...', 'Mensaje de prue...' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php on line 166
+[15-Nov-2010 15:42:54] PHP Fatal error:  Uncaught exception 'Swift_ConnectionException' with message 'Sending failed using mail() as PHP's default mail() function returned boolean FALSE.' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php:166
+Stack trace:
+#0 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php(146): Swift_Plugin_MailSend->doMail('palimp@gmail.co...', 'Mensaje de prue...', 'Este es un mens...', Object(Swift_Message_Headers), '-oi -f no-reply...')
+#1 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(171): Swift_Plugin_MailSend->sendPerformed(Object(Swift_Events_SendEvent))
+#2 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(462): Swift->notifyListeners(Object(Swift_Events_SendEvent), 'SendListener')
+#3 /home/qcpjuuzu/public_html/tienda/classes/Mail.php(136): Swift->send(Object(Swift_Message), 'palimp@gmail.co...', 'no-reply@www.te...')
+#4 /home/qcpjuuzu/public_html/tienda/admin27/ajax_send_mail_test.php(20): Mail::sendMailTest(false, '', 'Este es un mens...', 'Mensaje de prue...' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php on line 166
+[15-Nov-2010 15:44:05] PHP Fatal error:  Uncaught exception 'Swift_ConnectionException' with message 'Sending failed using mail() as PHP's default mail() function returned boolean FALSE.' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php:166
+Stack trace:
+#0 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php(146): Swift_Plugin_MailSend->doMail('palimp@gmail.co...', 'Mensaje de prue...', 'Este es un mens...', Object(Swift_Message_Headers), '-oi -f no-reply...')
+#1 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(171): Swift_Plugin_MailSend->sendPerformed(Object(Swift_Events_SendEvent))
+#2 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(464): Swift->notifyListeners(Object(Swift_Events_SendEvent), 'SendListener')
+#3 /home/qcpjuuzu/public_html/tienda/classes/Mail.php(136): Swift->send(Object(Swift_Message), 'palimp@gmail.co...', 'no-reply@www.te...')
+#4 /home/qcpjuuzu/public_html/tienda/admin27/ajax_send_mail_test.php(20): Mail::sendMailTest(false, '', 'Este es un mens...', 'Mensaje de prue...' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php on line 166
+[15-Nov-2010 15:44:18] PHP Fatal error:  Uncaught exception 'Swift_ConnectionException' with message 'Sending failed using mail() as PHP's default mail() function returned boolean FALSE.' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php:166
+Stack trace:
+#0 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php(146): Swift_Plugin_MailSend->doMail('palimp@gmail.co...', 'Mensaje de prue...', 'Este es un mens...', Object(Swift_Message_Headers), '-oi -f no-reply...')
+#1 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(171): Swift_Plugin_MailSend->sendPerformed(Object(Swift_Events_SendEvent))
+#2 /home/qcpjuuzu/public_html/tienda/tools/swift/Swift.php(464): Swift->notifyListeners(Object(Swift_Events_SendEvent), 'SendListener')
+#3 /home/qcpjuuzu/public_html/tienda/classes/Mail.php(136): Swift->send(Object(Swift_Message), 'palimp@gmail.co...', 'no-reply@www.te...')
+#4 /home/qcpjuuzu/public_html/tienda/admin27/ajax_send_mail_test.php(20): Mail::sendMailTest(false, '', 'Este es un mens...', 'Mensaje de prue...' in /home/qcpjuuzu/public_html/tienda/tools/swift/Swift/Plugin/MailSend.php on line 166
+[26-Jan-2011 14:32:52] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:34:08] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:43:07] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:47:47] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:49:59] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:51:03] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:53:39] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:54:44] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:55:45] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:56:02] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 14:59:22] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 15:00:41] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99
+[26-Jan-2011 15:00:59] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/qcpjuuzu/public_html/tienda/modules/editorial/editorial.php on line 99

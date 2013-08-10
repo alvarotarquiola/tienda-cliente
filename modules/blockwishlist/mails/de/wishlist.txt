@@ -1,0 +1,9 @@
+Hallo,
+
+Nachricht von {shop_name}
+
+{firstname} {lastname} lädt Sie ein, die Wunschliste {wishlist} bei {shop_name} zu betrachten:
+
+{wishlist}
+
+{shop_url} Powered by PrestaShop™

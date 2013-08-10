@@ -1,0 +1,9 @@
+Hallo {firstname} {lastname},
+
+{product} ist leider nicht auf Lager.
+
+Die verbliebenen {last_qty} Stück sind leider ausverkauft. Es bleiben auf Lager: {qty}
+
+Bitte füllen Sie die Produktmenge in Ihrem Adminbereich auf.
+
+{shop_url} Powered by PrestaShop™

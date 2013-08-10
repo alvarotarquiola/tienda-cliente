@@ -1,0 +1,173 @@
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Trebuchet MS", Tahoma, Arial, sans-serif;
+	font-size: 13px;
+	color: #333;
+	text-align: center;
+	background-color: #EFEFEF;
+}
+
+a {
+	color: #0079BD;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+a.menus{
+	color: #000 !important
+}
+
+input, textarea, option, select {
+	color: #000;
+	font-family: "Trebuchet MS", Tahoma, Arial, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	
+}
+input, textarea, option, select, #chkac {
+	background-color: #FFF6D3;
+}
+input:focus, textarea:focus {
+	border: 1px solid #686868;
+	background-color: #DFDFDF;
+}
+
+/* CONTENT */
+
+#container {
+	width: 344px;
+	margin: 5em auto 1em auto;
+	padding: 0;
+}
+
+#login {
+	height: 360px;
+	background: #FFFFF0;
+	border: 3px solid #E5E3D1;
+	text-align: left;
+}
+.img-logo{
+	text-align: center;
+}
+.img-logo a {	 
+	display: inline-block;
+	margin: 10px 0
+}
+.img-logo a >img{
+	/*display: inline-block;*/
+}
+#login form {
+	margin: 0;
+	padding: 10px 30px 25px 30px;
+	_padding: 12px 30px 25px 30px;
+}
+
+#login .conection {
+    float: left;
+    margin: 25px 0;
+    width: 283px;
+}
+#login #submit {
+	float: right;
+	/*margin: 1em 1px;*/
+	padding: 0;
+	display: inline;
+	/*text-align: right;*/
+}
+#login #send-password{		
+	padding: 0;	 
+	text-align: center;	
+	margin: 5px 0
+}
+#login #send-password > input{	
+	padding: 1px 20px;
+	border: 1px solid #B2B2B2;
+
+}
+
+#login #contrato {
+    display: inline;
+    float: left;
+    padding: 5px 0;
+}
+#login #submit input {
+	padding: 2px 4px;
+	border: 1px solid #B2B2B2;
+	_padding: 0;
+}
+
+#login #lost {   
+    float: left;
+    font-size: 0.95em;
+    margin: 17px auto;    
+    width: 100%;
+}
+#login #lost a:hover{   
+    color: #0079BD
+}
+/*forgot your password*/
+.page-title.center{
+ 	margin: 22px 0 30px 0
+}
+
+/* ERROR */
+
+#error {
+	margin: 0 30px 15px 30px;
+	padding: 10px 15px;
+	border-top: 1px solid #DF7B7B;
+	border-bottom: 1px solid #DF7B7B;
+	background-color: #FFE6E6;
+	text-align: left;
+}
+
+#error ol {
+	margin: 15px 0 0 0;
+	padding-bottom: 0;
+}
+
+#error li {
+	_margin-left: 45px;
+	font-family: Verdana,Arial,Helevetica,sans-serif;
+	font-size: 11px;
+}
+
+#error h3 {
+	margin: 0 0 .83em 0;
+	padding: 0 0 0 20px;
+	background: url(../img/admin/warning.gif) no-repeat 0 0;
+	font-size: 1em;
+}
+
+/* CLASS */
+
+.input {
+	width: 273px;
+	margin-top: 2px;
+	padding: 2px 4px;
+	border: 1px solid #B2B2B2;
+	
+}
+
+.button {
+	border: 1px solid #DFD5AF;
+	border-top: 1px solid #FFF6D3;
+	border-left: 1px solid #FFF6D3;
+	color: #268CCD;
+	background-color: #FFF6D3;
+}
+
+.button:hover {
+	background-color: #F0EBD6;
+}
+
+.center {
+	text-align: center;
+}

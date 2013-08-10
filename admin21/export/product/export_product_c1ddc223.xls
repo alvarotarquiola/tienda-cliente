@@ -1,0 +1,3346 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+					xmlns:x="urn:schemas-microsoft-com:office:excel"
+					xmlns="http://www.w3.org/TR/REC-html40">
+					
+					<head>
+					<meta http-equiv=Content-Type content="text/html;charset=UTF-8">
+					<meta name=ProgId content=Excel.Sheet>
+					<meta name=Generator content="Microsoft Excel 11">
+					<link rel=File-List href="tempo_archivos/filelist.xml">
+					<link rel=Edit-Time-Data href="tempo_archivos/editdata.mso">
+					<link rel=OLE-Object-Data href="tempo_archivos/oledata.mso">
+					<!--[if gte mso 9]><xml>
+					 <o:DocumentProperties>
+					  <o:Author>WinuE</o:Author>
+					  <o:LastAuthor>WinuE</o:LastAuthor>
+					  <o:Created>2010-07-20T02:44:40Z</o:Created>
+					  <o:LastSaved>2010-07-20T02:44:58Z</o:LastSaved>
+					  <o:Company>Windows uE</o:Company>
+					  <o:Version>11.8132</o:Version>
+					 </o:DocumentProperties>
+					</xml><![endif]-->
+					<style>
+					<!--table
+						{mso-displayed-decimal-separator:"\.";
+						mso-displayed-thousand-separator:"\,";}
+					@page
+						{margin:.98in .79in .98in .79in;
+						mso-header-margin:0in;
+						mso-footer-margin:0in;}
+					tr
+						{mso-height-source:auto;}
+					col
+						{mso-width-source:auto;}
+					br
+						{mso-data-placement:same-cell;}
+					.style0
+						{mso-number-format:General;
+						text-align:general;
+						vertical-align:bottom;
+						white-space:nowrap;
+						mso-rotate:0;
+						mso-background-source:auto;
+						mso-pattern:auto;
+						color:windowtext;
+						font-size:10.0pt;
+						font-weight:400;
+						font-style:normal;
+						text-decoration:none;
+						font-family:Arial;
+						mso-generic-font-family:auto;
+						mso-font-charset:0;
+						border:none;
+						mso-protection:locked visible;
+						mso-style-name:Normal;
+						mso-style-id:0;}
+					td
+						{mso-style-parent:style0;
+						padding-top:1px;
+						padding-right:1px;
+						padding-left:1px;
+						mso-ignore:padding;
+						color:windowtext;
+						font-size:10.0pt;
+						font-weight:400;
+						font-style:normal;
+						text-decoration:none;
+						font-family:Arial;
+						mso-generic-font-family:auto;
+						mso-font-charset:0;
+						mso-number-format:General;
+						text-align:general;
+						vertical-align:bottom;
+						border:none;
+						mso-background-source:auto;
+						mso-pattern:auto;
+						mso-protection:locked visible;
+						white-space:nowrap;
+						mso-rotate:0;}
+					.normal
+						{mso-style-parent:style0;
+						white-space:normal;}
+					.numero
+						{mso-style-parent:style0;
+						white-space:normal;}
+					.fecha
+						{mso-style-parent:style0;
+						mso-number-format:"Short Date";}
+					.theader
+						{mso-style-parent:style0;
+						border:.5pt solid #000000;
+						color: white;
+						background: #999999;
+						text-align:center; font-weight:700;
+						font-size:10px;
+						vertical-align:middle;
+						white-space:normal;
+						mso-pattern:auto none; }
+					.bold
+						{mso-style-parent:style0;
+						font-weight:700;
+						font-size:15px;
+						}
+				.xs0{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs1{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs2{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs3{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs4{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs5{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs6{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs7{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs8{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs9{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs10{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs11{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs12{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs13{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs14{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs15{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs16{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs17{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs18{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs19{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs20{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs21{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs22{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs23{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs24{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs25{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs26{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs27{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs28{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs29{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs30{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs31{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs32{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs33{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs34{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs35{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs36{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs37{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs38{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs39{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs40{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs41{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs42{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+.xs43{mso-style-parent:style0;  font-weight:700;  text-align:center;  }
+				
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>Hoja1</x:Name>
+					<x:WorksheetOptions>
+					 <x:DefaultColWidth>10</x:DefaultColWidth>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10740</x:WindowHeight>
+				  <x:WindowWidth>17595</x:WindowWidth>
+				  <x:WindowTopX>480</x:WindowTopX>
+				  <x:WindowTopY>90</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse;table-layout:fixed;">
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<col width=80 style='mso-width-source:userset;width:60pt'>
+<tr>
+<td class=xs0  align=center  width=200 style=' width:150pt ' >Order</td>
+<td class=xs1  align=center  width=200 style=' width:150pt ' >Name-lang-1</td>
+<td class=xs2  align=center  width=200 style=' width:150pt ' >Name-lang-2</td>
+<td class=xs3  align=center  width=200 style=' width:150pt ' >Name-lang-3</td>
+<td class=xs4  align=center  width=200 style=' width:150pt ' >Name-lang-4</td>
+<td class=xs5  align=center  width=200 style=' width:150pt ' >Name-lang-5</td>
+<td class=xs6  align=center  width=200 style=' width:150pt ' >1-Cat</td>
+<td class=xs7  align=center  width=200 style=' width:150pt ' >2-Cat</td>
+<td class=xs8  align=center  width=200 style=' width:150pt ' >3-Cat</td>
+<td class=xs9  align=center  width=200 style=' width:150pt ' >Refe</td>
+<td class=xs10  align=center  width=200 style=' width:150pt ' >Active</td>
+<td class=xs11  align=center  width=200 style=' width:150pt ' >Price-without-TAX</td>
+<td class=xs12  align=center  width=200 style=' width:150pt ' >TAX</td>
+<td class=xs13  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-1</td>
+<td class=xs14  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-2</td>
+<td class=xs15  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-3</td>
+<td class=xs16  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-4</td>
+<td class=xs17  align=center  width=200 style=' width:150pt ' >Desciption-small-lang-5</td>
+<td class=xs18  align=center  width=200 style=' width:150pt ' >Description-lang-1</td>
+<td class=xs19  align=center  width=200 style=' width:150pt ' >Description-lang-2</td>
+<td class=xs20  align=center  width=200 style=' width:150pt ' >Description-lang-3</td>
+<td class=xs21  align=center  width=200 style=' width:150pt ' >Description-lang-4</td>
+<td class=xs22  align=center  width=200 style=' width:150pt ' >Description-lang-5</td>
+<td class=xs23  align=center  width=200 style=' width:150pt ' >Supplier</td>
+<td class=xs24  align=center  width=200 style=' width:150pt ' >Ref-supplier</td>
+<td class=xs25  align=center  width=200 style=' width:150pt ' >Manufecture</td>
+<td class=xs26  align=center  width=200 style=' width:150pt ' >Weight</td>
+<td class=xs27  align=center  width=200 style=' width:150pt ' >Ecotax</td>
+<td class=xs28  align=center  width=200 style=' width:150pt ' >Sale</td>
+<td class=xs29  align=center  width=200 style=' width:150pt ' >Sale-amount</td>
+<td class=xs30  align=center  width=200 style=' width:150pt ' >Sale-%</td>
+<td class=xs31  align=center  width=200 style=' width:150pt ' >Sale-from</td>
+<td class=xs32  align=center  width=200 style=' width:150pt ' >Sale-up</td>
+<td class=xs33  align=center  width=200 style=' width:150pt ' >Stock</td>
+<td class=xs34  align=center  width=200 style=' width:150pt ' >Text-available-lang-2</td>
+<td class=xs35  align=center  width=200 style=' width:150pt ' >Text-available-lang-2</td>
+<td class=xs36  align=center  width=200 style=' width:150pt ' >Text-available-lang-3</td>
+<td class=xs37  align=center  width=200 style=' width:150pt ' >Text-available-lang-4</td>
+<td class=xs38  align=center  width=200 style=' width:150pt ' >Text-available-lang-5</td>
+<td class=xs39  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-1</td>
+<td class=xs40  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-2</td>
+<td class=xs41  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-3</td>
+<td class=xs42  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-4</td>
+<td class=xs43  align=center  width=200 style=' width:150pt ' >Text-off-stock-lang-5</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >5</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsa amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >Gelbe Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Yellow bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-1</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >100.300000</td>
+<td class=normal  width=80 style=' width:60pt ' >7.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Yellow bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >Gelbe Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bolsa amarilla
+2-  Bolsa amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bourse jaune
+2-  Bourse jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Gelbe Tasche
+2-  Gelbe Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Yellow bag ennnnnnnn
+2-  Yellow bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-1</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bolsa amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bourse jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Gelbe Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Yellow bag</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bolsa amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bourse jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Gelbe Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Yellow bag</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >4</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsa naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Orange Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Orange bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-2</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >100.300000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Orange bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Orange Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bolsa naranja
+2-  Bolsa naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bourse orange
+2-  Bourse orange</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Orange Tasche
+2-  Orange Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Orange bag
+2-  Orange bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-1</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bolsa naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bourse orange</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Orange Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Orange bag</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bolsa naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bourse orange</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Orange Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Orange bag</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsa negra</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Schwarzmarkt</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Black market</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-3</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >100.300000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Black market</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Schwarzmarkt</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bolsa negra
+2-  Bolsa negra</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bourse noire
+2-  Bourse noire</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schwarzmarkt
+2-  Schwarzmarkt</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Black market
+2-  Black market</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-1</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bolsa negra</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bourse noire</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schwarzmarkt</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Black market</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bolsa negra</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bourse noire</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schwarzmarkt</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Black market</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsa roja</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Rote Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Red bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-4</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >100.300000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Red bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Rote Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bolsa roja
+2-  Bolsa roja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bourse rouge
+2-  Bourse rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Rote Tasche
+2-  Rote Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Red bag
+2-  Red bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-1</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bolsa roja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bourse rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Rote Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Red bag</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bolsa roja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bourse rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Rote Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Red bag</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >3</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsa verde</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse verte</td>
+<td class=normal  width=80 style=' width:60pt ' >Grüne Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Green bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-5</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >100.300000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Green bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Bourse verte</td>
+<td class=normal  width=80 style=' width:60pt ' >Grüne Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bolsa verde
+2-  Bolsa verde</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Bourse verte
+2-  Bourse verte</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Grüne Tasche
+2-  Grüne Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Green bag
+2-  Green bag</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-1</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Bolsas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bolsa verde</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Bourse verte</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Grüne Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Green bag</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bolsa verde</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Bourse verte</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Grüne Tasche</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Green bag</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta amarilla-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte jaune -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft gelb Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L1 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >Abierta Lote 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-A1</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >1000.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L1 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte jaune -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft gelb Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta amarilla-L1
+2-  Caja abierta amarilla-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte jaune -L1
+2-  Boîte ouverte jaune -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geofft gelb Kiste-- L1
+2-  Geofft gelb Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box -L1 gold coin
+2-  Open box -L1 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Lote-1</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-5</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta amarilla-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte jaune -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geofft gelb Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box -L1 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta amarilla-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte jaune -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geofft gelb Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box -L1 gold coin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta azul-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte bleue -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft blau Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L1 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >Abierta Lote 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-A2</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >1000.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L1 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte bleue -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft blau Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta azul-L1
+2-  Caja abierta azul-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte bleue -L1
+2-  Boîte ouverte bleue -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geofft blau Kiste-- L1
+2-  Geofft blau Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box -L1 blue
+2-  Open box -L1 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Lote-1</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-5</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta azul-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte bleue -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geofft blau Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box -L1 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta azul-L1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte bleue -L1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geofft blau Kiste-- L1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box -L1 blue</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta amarilla-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte jaune -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft gelb Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L2 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >Abierta Lote 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-A3</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >1000.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L2 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte jaune -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft gelb Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1 -Caja abierta amarilla-L2
+1 -Caja abierta amarilla-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte jaune -L2
+2-  Boîte ouverte jaune -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geofft gelb Kiste-- L2
+2-  Geofft gelb Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box -L2 gold coin
+2-  Open box -L2 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Lote-2</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-5</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >1 -Caja abierta amarilla-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte jaune -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geofft gelb Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box -L2 gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >1 -Caja abierta amarilla-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte jaune -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geofft gelb Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box -L2 gold coin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta azul-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte bleue -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft blau Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L2 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >Abierta Lote 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-A4</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >1000.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box -L2 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte bleue -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >Geofft blau Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta azul-L2
+2-  Caja abierta azul-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte bleue -L2
+2-  Boîte ouverte bleue -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geofft blau Kiste-- L2
+2-  Geofft blau Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box -L2 blue
+2-  Open box -L2 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Lote-2</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-5</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta azul-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte bleue -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geofft blau Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box -L2 blue</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta azul-L2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte bleue -L2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geofft blau Kiste-- L2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box -L2 blue</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >6</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open red box</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-10</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >200.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open red box</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta roja
+2-  Caja abierta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte rouge
+2-  Boîte ouverte rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geoffte rote Kiste
+2-  Geoffte rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open red box
+2-  Open red box</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geoffte rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open red box</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geoffte rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open red box</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >4</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte verte</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box green</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-11</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >200.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box green</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte verte</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta verde
+2-  Caja abierta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte verte
+2-  Boîte ouverte verte</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geoffte grüne Kiste
+2-  Geoffte grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box green
+2-  Open box green</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte verte</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geoffte grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box green</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte verte</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geoffte grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box green</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >5</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-6</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >200.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta amarilla
+2-  Caja abierta amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte jaune
+2-  Boîte ouverte jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geoffte gelbe Kiste
+2-  Geoffte gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box gold coin
+2-  Open box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geoffte gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte jaune</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geoffte gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box gold coin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte blaue Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-7</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >200.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte blaue Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta azul
+2-  Caja abierta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte bleue
+2-  Boîte ouverte bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geoffte blaue Kiste
+2-  Geoffte blaue Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box blue
+2-  Open box blue</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geoffte blaue Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box blue</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geoffte blaue Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box blue</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta blanca</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte blanche</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte weisse Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box steel blade</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-8</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >200.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box steel blade</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte blanche</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte weisse Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta blanca
+2-  Caja abierta blanca</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte blanche
+2-  Boîte ouverte blanche</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geoffte weisse Kiste
+2-  Geoffte weisse Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box steel blade
+2-  Open box steel blade</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta blanca</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte blanche</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geoffte weisse Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box steel blade</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta blanca</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte blanche</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geoffte weisse Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box steel blade</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >3</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja abierta negra</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Open box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-9</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >200.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Open box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte ouverte noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Geoffte schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja abierta negra
+2-  Caja abierta negra</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte ouverte noire
+2-  Boîte ouverte noire</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Geoffte schwarze Kiste
+2-  Geoffte schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Open box Negro woman
+2-  Open box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Abiertas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja abierta negra</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte ouverte noire</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Geoffte schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Open box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja abierta negra</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte ouverte noire</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Geoffte schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Open box Negro woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >4</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja cerrada amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée jaunit</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-12</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >300.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée jaunit</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja cerrada amarilla
+2-  Caja cerrada amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte fermée jaunit
+2-  Boîte fermée jaunit</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Gegeschlosste gelbe Kiste
+2-  Gegeschlosste gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Closed box gold coin
+2-  Closed box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-3</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja cerrada amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte fermée jaunit</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Gegeschlosste gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Closed box gold coin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja cerrada amarilla</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte fermée jaunit</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Gegeschlosste gelbe Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Closed box gold coin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >5</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja cerrada naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste orange Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-13</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >300.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste orange Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja cerrada naranja
+2-  Caja cerrada naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte fermée orange
+2-  Boîte fermée orange</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Gegeschlosste orange Kiste
+2-  Gegeschlosste orange Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Closed box orange
+2-  Closed box orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-3</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja cerrada naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte fermée orange</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Gegeschlosste orange Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Closed box orange</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja cerrada naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte fermée orange</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Gegeschlosste orange Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Closed box orange</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja cerrada negra</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-14</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >300.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja cerrada negra
+2-  Caja cerrada negra</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte fermée noire
+2-  Boîte fermée noire</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Gegeschlosste schwarze Kiste
+2-  Gegeschlosste schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Closed box Negro woman
+2-  Closed box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-3</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja cerrada negra</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte fermée noire</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Gegeschlosste schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Closed box Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja cerrada negra</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte fermée noire</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Gegeschlosste schwarze Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Closed box Negro woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja cerrada roja</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Closed red box</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-15</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >300.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Closed red box</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja cerrada roja
+2-  Caja cerrada roja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte fermée rouge
+2-  Boîte fermée rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Gegeschlosste rote Kiste
+2-  Gegeschlosste rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Closed red box
+2-  Closed red box</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-3</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja cerrada roja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte fermée rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Gegeschlosste rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Closed red box</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja cerrada roja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte fermée rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Gegeschlosste rote Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Closed red box</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >3</td>
+<td class=normal  width=80 style=' width:60pt ' >Caja cerrada verde</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée vert</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box green</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas</td>
+<td class=normal  width=80 style=' width:60pt ' >Cajas cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-16</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >300.700000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Closed box green</td>
+<td class=normal  width=80 style=' width:60pt ' >Boîte fermée vert</td>
+<td class=normal  width=80 style=' width:60pt ' >Gegeschlosste grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Caja cerrada verde
+2-  Caja cerrada verde</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Boîte fermée vert
+2-  Boîte fermée vert</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Gegeschlosste grüne Kiste
+2-  Gegeschlosste grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Closed box green
+2-  Closed box green</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Cajas-Cerradas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-3</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Caja cerrada verde</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Boîte fermée vert</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Gegeschlosste grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Closed box green</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Caja cerrada verde</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Boîte fermée vert</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Gegeschlosste grüne Kiste</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Closed box green</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiqueta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >Blaues Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Blue azure label</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-17</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >40.000000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Blue azure label</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >Blaues Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etiqueta azul
+2-  Etiqueta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Étiquette bleue
+2-  Étiquette bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Blaues Etikett
+2-  Blaues Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Blue azure label
+2-  Blue azure label</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-4</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etiqueta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Étiquette bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Blaues Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Blue azure label</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etiqueta azul</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Étiquette bleue</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Blaues Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Blue azure label</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >4</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiqueta bio 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette |bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Etikett|bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >|bio| label 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-18</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >40.000000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >|bio| label 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette |bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Etikett|bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etiqueta bio 1
+2-  Etiqueta bio 1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Étiquette |bio| 1
+2-  Étiquette |bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etikett|bio| 1
+2-  Etikett|bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- |bio| label 1
+2-  |bio| label 1</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-4</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etiqueta bio 1</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Étiquette |bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etikett|bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  |bio| label 1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etiqueta bio 1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Étiquette |bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etikett|bio| 1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  |bio| label 1</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >5</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiqueta bio 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette |bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Etikett|bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >|bio| label 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-19</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >40.000000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >|bio| label 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette |bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Etikett|bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etiqueta bio 2
+2-  Etiqueta bio 2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Étiquette |bio| 2
+2-  Étiquette |bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etikett|bio| 2
+2-  Etikett|bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- |bio| label 2
+2-  |bio| label 2</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-4</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etiqueta bio 2</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Étiquette |bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etikett|bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  |bio| label 2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etiqueta bio 2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Étiquette |bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etikett|bio| 2</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  |bio| label 2</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >3</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiqueta naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Oranges Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Orange label</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-20</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >40.000000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Orange label</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette orange</td>
+<td class=normal  width=80 style=' width:60pt ' >Oranges Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etiqueta naranja
+2-  Etiqueta naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Étiquette orange
+2-  Étiquette orange</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Oranges Etikett
+2-  Oranges Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Orange label
+2-  Orange label</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-4</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etiqueta naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Étiquette orange</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Oranges Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Orange label</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etiqueta naranja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Étiquette orange</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Oranges Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Orange label</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiqueta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Rotes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Red label</td>
+<td class=normal  width=80 style=' width:60pt ' >Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-21</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >40.000000</td>
+<td class=normal  width=80 style=' width:60pt ' >7.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Red label</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Rotes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etiqueta roja
+2-  Etiqueta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Étiquette rouge
+2-  Étiquette rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Rotes Etikett
+2-  Rotes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Red label
+2-  Red label</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-4</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etiqueta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Étiquette rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Rotes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Red label</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etiqueta roja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Étiquette rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Rotes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Red label</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes skin man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HPZ</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes skin man</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Piel  Zapatos
+2-  Hombre  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Homme peau chaussures
+2-  Homme peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Haut Mann
+2-  Schuhe Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Shoes skin man
+2-  Shoes skin man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Homme peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Shoes skin man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Homme peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Shoes skin man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HP</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin man</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Piel
+2-  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Homme peau
+2-  Homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut Mann
+2-  Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin man
+2-  Skin man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Plastico  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HPLZ</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Plastico  Zapatos
+2-  Hombre  Plastico  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre Plastico Zapatos
+2-  Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre Plastico Zapatos
+2-  Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic man shoes
+2-  Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Plastico  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Plastico  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre Plastico Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic man shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HPL</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Plastico
+2-  Hombre  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre Plastico
+2-  Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre Plastico
+2-  Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic man
+2-  Plastic man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HZP</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Zapatos  Piel
+2-  Hombre  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Homme chaussures peau
+2-  Homme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut Schuhe Mann
+2-  Haut Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin shoes man
+2-  Skin shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Homme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Homme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin shoes man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Mann Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HZPL</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Mann Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Zapatos  Plastico
+2-  Hombre  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Homme chaussures Plastico
+2-  Homme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Mann Plastik
+2-  Schuhe Mann Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic shoes man
+2-  Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Homme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Mann Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Homme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Mann Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic shoes man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-HZ</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre  Zapatos
+2-  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Homme chaussures
+2-  Homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Mann
+2-  Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Shoes man
+2-  Shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Shoes man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Man</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-H</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Man</td>
+<td class=normal  width=80 style=' width:60pt ' >Homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Hombre
+2-  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Homme
+2-  Homme</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mann
+2-  Mann</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Man
+2-  Man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Homme</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Homme</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mann</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-MZP</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mujer  Zapatos  Piel
+2-  Mujer  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Femme chaussures peau
+2-  Femme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut Schuhe Frau
+2-  Haut Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin shoes woman
+2-  Skin shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mujer  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Femme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mujer  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Femme chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin shoes woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Frau Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-MZPL</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Frau Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mujer  Zapatos  Plastico
+2-  Mujer  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Femme chaussures Plastico
+2-  Femme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Frau Plastik
+2-  Schuhe Frau Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic shoes woman
+2-  Plastic shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mujer  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Femme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Frau Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mujer  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Femme chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Frau Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic shoes woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-MZ</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mujer  Zapatos
+2-  Mujer  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Femme chaussures
+2-  Femme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Frau
+2-  Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Shoes woman
+2-  Shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mujer  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Femme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Shoes woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mujer  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Femme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Shoes woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme</td>
+<td class=normal  width=80 style=' width:60pt ' >Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-M</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Femme</td>
+<td class=normal  width=80 style=' width:60pt ' >Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mujer
+2-  Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Femme
+2-  Femme</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Frau
+2-  Frau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Woman
+2-  Woman</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Femme</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mujer</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Femme</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Frau</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes man skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-PHZ</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes man skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Piel  Hombre  Zapatos
+2-  Piel  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Peau homme chaussures
+2-  Peau homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Mann Haut
+2-  Schuhe Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Shoes man skin
+2-  Shoes man skin</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Piel  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Peau homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Shoes man skin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Piel  Hombre  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Peau homme chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Shoes man skin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Man skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-PH</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Man skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Piel  Hombre
+2-  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Peau homme
+2-  Peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mann Haut
+2-  Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Man skin
+2-  Man skin</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Man skin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mann Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Man skin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-PZP</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Piel  Zapatos  Piel
+2-  Piel  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Peau chaussures peau
+2-  Peau chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut Schuhe Haut
+2-  Haut Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin shoes skin
+2-  Skin shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Piel  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Peau chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Piel  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Peau chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin shoes skin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Haut Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-PZPL</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Haut Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Piel  Zapatos  Plastico
+2-  Piel  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Peau chaussures Plastico
+2-  Peau chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Haut Plastik
+2-  Schuhe Haut Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic shoes skin
+2-  Plastic shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Piel  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Peau chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Haut Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Piel  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Peau chaussures Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Haut Plastik</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic shoes skin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-PZ</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Piel  Zapatos
+2-  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Peau chaussures
+2-  Peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe Haut
+2-  Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Shoes skin
+2-  Shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Shoes skin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Piel  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Peau chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Shoes skin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-P</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin</td>
+<td class=normal  width=80 style=' width:60pt ' >Peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Piel
+2-  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Peau
+2-  Peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut
+2-  Haut</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin
+2-  Skin</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZHP</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Hombre  Piel
+2-  Zapatos  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Chaussures homme peau
+2-  Chaussures homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut Mann Schuhe
+2-  Haut Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin man shoes
+2-  Skin man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Chaussures homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Hombre  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Chaussures homme peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin man shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Hombre  Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures homme Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Schuhe Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZHPL</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures homme Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Schuhe Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Hombre  Planstico
+2-  Zapatos  Hombre  Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Chaussures homme Planstico
+2-  Chaussures homme Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mann Schuhe Planstico
+2-  Mann Schuhe Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic man shoes
+2-  Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Hombre  Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Chaussures homme Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mann Schuhe Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Hombre  Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Chaussures homme Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mann Schuhe Planstico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic man shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZH</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Hombre
+2-  Zapatos  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Chaussures homme
+2-  Chaussures homme</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mann Schuhe
+2-  Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Man shoes
+2-  Man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Chaussures homme</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Man shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Chaussures homme</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mann Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Man shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Man skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZPH</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Man skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >Mann Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Piel  Hombre
+2-  Zapatos  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Chaussures peau homme
+2-  Chaussures peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Mann Haut Schuhe
+2-  Mann Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Man skin shoes
+2-  Man skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Chaussures peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Mann Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Man skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Piel  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Chaussures peau homme</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Mann Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Man skin shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Piel</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZP</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Piel
+2-  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Chaussures peau
+2-  Chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Haut Schuhe
+2-  Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Skin shoes
+2-  Skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Skin shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Piel</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Chaussures peau</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Haut Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Skin shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Plastico  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZPLH</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Plastico  Hombre
+2-  Zapatos  Plastico  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos Plastico Hombre
+2-  Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos Plastico Hombre
+2-  Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic shoes man
+2-  Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >0.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Plastico  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic shoes man</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Plastico  Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos Plastico Hombre</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic shoes man</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-ZPL</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Plastic shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos  Plastico
+2-  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos Plastico
+2-  Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos Plastico
+2-  Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Plastic shoes
+2-  Plastic shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Plastic shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos  Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos Plastico</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Plastic shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Ref-Z</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >24.100000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >Chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Zapatos
+2-  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Chaussures
+2-  Chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schuhe
+2-  Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Shoes
+2-  Shoes</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Shoes</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Zapatos</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Chaussures</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schuhe</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Shoes</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Etiqueta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette verte</td>
+<td class=normal  width=80 style=' width:60pt ' >Grünes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Green label</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Referencia-22</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >40.000000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Green label</td>
+<td class=normal  width=80 style=' width:60pt ' >Étiquette verte</td>
+<td class=normal  width=80 style=' width:60pt ' >Grünes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Etiqueta verde
+2-  Etiqueta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Étiquette verte
+2-  Étiquette verte</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Grünes Etikett
+2-  Grünes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Green label
+2-  Green label</td>
+<td class=normal  width=80 style=' width:60pt ' >Proveedor-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >BR-4</td>
+<td class=normal  width=80 style=' width:60pt ' >Fabricante-Etiquetas</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >2012-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >2013-08-06</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Etiqueta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Étiquette verte</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Grünes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Green label</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Etiqueta verde</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Étiquette verte</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Grünes Etikett</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Green label</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >Negra</td>
+<td class=normal  width=80 style=' width:60pt ' >Noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Schwarz</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Negra</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >500.250000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >Noire</td>
+<td class=normal  width=80 style=' width:60pt ' >Schwarz</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Negra
+2-  Negra</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Noire
+2-  Noire</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Schwarz
+2-  Schwarz</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Negro woman
+2-  Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Negra</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Noire</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Schwarz</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Negro woman</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Negra</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Noire</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Schwarz</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Negro woman</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >2</td>
+<td class=normal  width=80 style=' width:60pt ' >Roja</td>
+<td class=normal  width=80 style=' width:60pt ' >Rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Rot</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Red</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Roja</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >500.250000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Red</td>
+<td class=normal  width=80 style=' width:60pt ' >Rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >Rot</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Roja
+2-  Roja</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Rouge
+2-  Rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Rot
+2-  Rot</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Red
+2-  Red</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Roja</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Rot</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Red</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Roja</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Rouge</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Rot</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Red</td>
+</tr>
+<tr>
+<td class=normal  width=80 style=' width:60pt ' >3</td>
+<td class=normal  width=80 style=' width:60pt ' >Verde</td>
+<td class=normal  width=80 style=' width:60pt ' >Vert</td>
+<td class=normal  width=80 style=' width:60pt ' >Grün</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Green</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >Verde</td>
+<td class=normal  width=80 style=' width:60pt ' >1</td>
+<td class=normal  width=80 style=' width:60pt ' >500.250000</td>
+<td class=normal  width=80 style=' width:60pt ' >18.000</td>
+<td class=normal  width=80 style=' width:60pt ' >Green</td>
+<td class=normal  width=80 style=' width:60pt ' >Vert</td>
+<td class=normal  width=80 style=' width:60pt ' >Grün</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Verde
+2-  Verde</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Vert
+2-  Vert</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Grün
+2-  Grün</td>
+<td class=normal  width=80 style=' width:60pt ' >
+
+</td>
+<td class=normal  width=80 style=' width:60pt ' >
+1- Green
+2-  Green</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >5.00</td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >0</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >1970-01-01</td>
+<td class=normal  width=80 style=' width:60pt ' >10</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Verde</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Vert</td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Grün</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >DISPONIBLE -  Green</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Verde</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Vert</td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Grün</td>
+<td class=normal  width=80 style=' width:60pt ' ></td>
+<td class=normal  width=80 style=' width:60pt ' >ESPERA -  Green</td>
+</tr>
+</table></body></html>

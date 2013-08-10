@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Mensaje desde {shop_name}</title>
+    <style type="text/css">
+<!--
+.Estilo1 {
+	color: #DB3484;
+	font-weight: bold;
+}
+-->
+    </style>
+</head>
+<body>
+	<table style="font-family:Verdana,sans-serif; font-size:11px; color:#374953; width: 550px;">
+		<tr>
+			<td align="left">
+				<a href="{shop_url}" title="{shop_name}"><img alt="{shop_name}" src="{shop_logo}" style="border:none;" ></a>			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+              <HTML>
+              <!--  		@page { margin: 2cm }  	-->
+              <BODY DIR="LTR">
+              <p ALIGN="LEFT">Hallo <strong style="color:#DB3484;">{firstname}
+                  {lastname}</strong>,</p>
+            </td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;"><strong>Ihre
+		    Bestellung</strong> : {id_order}</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+			  <strong>Ihre
+			  Bestellung ist bestätigt.</strong></td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+		  <td align="left"><p LANG="de-DE" ALIGN="LEFT">Ihre Bestellung ist geprüft worden.
+              Sie können unter Ihre Bestellung in unserem Shop die Zahlung leisten.<BR>
+                <BR>
+              Die Produkte die z.Zt. nicht verfügbar sind haben wir, zur künftigen
+              Lieferung, in eine neue Bestellung eingefügt.<br>
+              <br>
+ 
+			  <br>
+Sie können Ihre Bestellung überprüfen und die Rechnung aus dem Abschnitt<a href="{shop_url}history.php" class="Estilo1"> "Bestellhistorie"</a> 
+Ihres Kontos downloaden, indem Sie auf unserer Webseite auf<a href="{shop_url}my-account.php" class="Estilo1"> "Benutzernamen
+und Passwort"</a> klicken. </p>
+          </td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="center" style="font-size:10px; border-top: 1px solid #D9DADE;">
+			<a href="{shop_url}" style="color:#DB3484; font-weight:bold; text-decoration:none;">{shop_name}</a></td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Hallo {firstname} {lastname},
+
+Ihre Bestellung #{id_order}
+============================
+
+Ein Gutschein zur Bestellung #{id_order} wurde für Sie hinterlegt.
+
+Hier ist der Gutscheincode: {voucher_num}, mit einem Guthaben in Höhe von {voucher_amount}. Fügen Sie diesen Code einfach in bei Ihrer nächsten Bestellung in das Feld unter dem Warenkorb ein, damit es angerechnet wird.
+
+{shop_name} powered with PrestaShop™ 
+
