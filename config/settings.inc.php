@@ -2,7 +2,7 @@
 
 define('__PS_BASE_URI__', '/tienda/');
 define('_THEME_NAME_', 'Rojo');
-define('_DB_NAME_', 'tienda_usuario');
+define('_DB_NAME_', 'tienda-cliente');
 define('_DB_SERVER_', 'localhost');
 define('_DB_USER_', 'root');
 define('_DB_PREFIX_', 'ps_');
